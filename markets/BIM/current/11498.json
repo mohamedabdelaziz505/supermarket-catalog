@@ -23,24 +23,44 @@
       "local_path": "flyers/yabalash/11498-2-3ceb8b66bf.jpg",
       "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11498/2.jpg",
       "sha256": "00d14664722f224826b2fd13ececa28a098aa0eff7c5225973c370507c585fb0",
-      "ocr_status": "PENDING",
-      "items": []
+      "ocr_status": "COMPLETED",
+      "items": [
+        {"name_ar": "كارديللا مكرونة انواع 1 كجم", "name_en": "Cardella Assorted Pasta 1 kg", "price": 23.95, "old_price": 25.75, "category": "Pasta", "tags": ["BIM", "Pasta", "Groceries"]},
+        {"name_ar": "كارديللا مكرونة انواع 250 جم", "name_en": "Cardella Assorted Pasta 250 g", "price": 8.50, "old_price": 9.25, "category": "Pasta", "tags": ["BIM", "Pasta", "Groceries"]},
+        {"name_ar": "إفسانه فاصوليا حمراء 500 جم", "name_en": "Efsane Red Lentils 500 g", "price": 24.95, "old_price": 34.50, "category": "Groceries", "tags": ["BIM", "Legumes", "Groceries"]},
+        {"name_ar": "إفسانه فاصوليا بيضاء 500 جم", "name_en": "Efsane White Beans 500 g", "price": 36.95, "old_price": 39.50, "category": "Groceries", "tags": ["BIM", "Legumes", "Groceries"]},
+        {"name_ar": "إفسانه لوبيا 500 جم", "name_en": "Efsane Black-eyed Peas 500 g", "price": 29.95, "old_price": 39.50, "category": "Groceries", "tags": ["BIM", "Legumes", "Groceries"]}
+      ]
     },
     {
       "file_id": "b5e2ceb9-2560-46fd-800d-0b3e9b095069",
       "local_path": "flyers/yabalash/11498-3-b0efd8110c.jpg",
       "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11498/3.jpg",
       "sha256": "12e50de4d42ab65c6f9b95aedbfdd991492f9ec1f7a02e33a875c48142225b75",
-      "ocr_status": "PENDING",
-      "items": []
+      "ocr_status": "COMPLETED",
+      "items": [
+        {"name_ar": "صني زيت خليط 4 لتر", "name_en": "Sunny Blend Oil 4 L", "price": 379.95, "old_price": 408.00, "category": "Groceries", "tags": ["BIM", "Oil", "Groceries"]},
+        {"name_ar": "كريستال زيت عباد الشمس 1.6 لتر", "name_en": "Crystal Sunflower Oil 1.6 L", "price": 164.95, "old_price": 173.95, "category": "Groceries", "tags": ["BIM", "Oil", "Groceries"]},
+        {"name_ar": "هدية زيت خليط 1 لتر", "name_en": "Hadeya Blend Oil 1 L", "price": 79.95, "old_price": 84.00, "category": "Groceries", "tags": ["BIM", "Oil", "Groceries"]},
+        {"name_ar": "جنة زبدة خليط 1 كجم", "name_en": "Janna Mixed Butter 1 kg", "price": 129.50, "old_price": 139.95, "category": "Groceries", "tags": ["BIM", "Butter", "Groceries"]},
+        {"name_ar": "أكلة هنية دقيق أسمر 1 كجم", "name_en": "Akla Hanya Whole Wheat Flour 1 kg", "price": 24.95, "old_price": 37.95, "category": "Groceries", "tags": ["BIM", "Flour", "Groceries"]},
+        {"name_ar": "إفسانه دقيق 1 كجم", "name_en": "Efsane Flour 1 kg", "price": 20.95, "old_price": 26.50, "category": "Groceries", "tags": ["BIM", "Flour", "Groceries"]}
+      ]
     },
     {
       "file_id": "5badb1a2-8895-4a31-b390-9b8e270c7e0f",
       "local_path": "flyers/yabalash/11498-4-8d16e74a94.jpg",
       "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11498/4.jpg",
       "sha256": "dbfcd7ca68438c2a9a09b5cbca94bd87b4127693f5bb67c56d19666ed42869d9",
-      "ocr_status": "PENDING",
-      "items": []
+      "ocr_status": "COMPLETED",
+      "items": [
+        {"name_ar": "المراعي حليب كامل/خالي الدسم 1 لتر", "name_en": "Almarai Full Fat or Skimmed Milk 1 L", "price": 46.95, "old_price": 53.25, "category": "Groceries", "tags": ["BIM", "Dairy", "Milk"]},
+        {"name_ar": "دوست حليب كامل الدسم 425 جم", "name_en": "Dost Full Fat Milk Powder 425 g", "price": 14.50, "old_price": 16.50, "category": "Groceries", "tags": ["BIM", "Dairy", "Milk"]},
+        {"name_ar": "أكنار شرائح جبنة رومي تركية 400 جم", "name_en": "Aknaz Turkish White Cheese Slices 400 g", "price": 139.95, "old_price": 159.95, "category": "Cheese", "tags": ["BIM", "Cheese", "Dairy"]},
+        {"name_ar": "أكنار جبن طبيعي بطعم الشيدر/قشطة 270 جم", "name_en": "Aknaz Natural Cheddar-Flavored Spread Cheese 270 g", "price": 79.95, "old_price": 89.95, "category": "Cheese", "tags": ["BIM", "Cheese", "Dairy"]},
+        {"name_ar": "دومتي جبنة طبيعية انواع 450 جم", "name_en": "Domty Natural Cheese Assorted 450 g", "price": 98.95, "old_price": 114.95, "category": "Cheese", "tags": ["BIM", "Cheese", "Dairy"]},
+        {"name_ar": "دومتي جولد جبنة فيتا طبيعي 250 جم", "name_en": "Domty Gold Natural Feta Cheese 250 g", "price": 83.95, "old_price": 88.95, "category": "Cheese", "tags": ["BIM", "Cheese", "Dairy"]}
+      ]
     },
     {
       "file_id": "dfee2205-0566-4637-a237-36978c67c952",
