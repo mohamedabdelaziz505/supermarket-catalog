@@ -1,0 +1,239 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-01",
+  "markets": [
+    {
+      "name": "الراية",
+      "path": "markets/الراية/current/current.json",
+      "image": "markets/الراية/market.jpg"
+    },
+    {
+      "name": "الرايه_ماركت",
+      "path": "markets/الرايه_ماركت/current/current.json",
+      "image": "markets/الرايه_ماركت/market.jpg"
+    },
+    {
+      "name": "العثيم",
+      "path": "markets/العثيم/current/current.json",
+      "image": "markets/العثيم/market.jpg"
+    },
+    {
+      "name": "العثيم_-_شارع_السودان_المهندسين",
+      "path": "markets/العثيم_-_شارع_السودان_المهندسين/current/current.json",
+      "image": "markets/العثيم_-_شارع_السودان_المهندسين/market.jpg"
+    },
+    {
+      "name": "الفرجانى",
+      "path": "markets/الفرجانى/current/current.json",
+      "image": "markets/الفرجانى/market.jpg"
+    },
+    {
+      "name": "المحلاوي",
+      "path": "markets/المحلاوي/current/current.json",
+      "image": "markets/المحلاوي/market.jpg"
+    },
+    {
+      "name": "اوسكار",
+      "path": "markets/اوسكار/current/current.json",
+      "image": "markets/اوسكار/market.jpg"
+    },
+    {
+      "name": "اولاد_المحلاوي",
+      "path": "markets/اولاد_المحلاوي/current/current.json",
+      "image": "markets/اولاد_المحلاوي/market.jpg"
+    },
+    {
+      "name": "اولاد_رجب",
+      "path": "markets/اولاد_رجب/current/current.json",
+      "image": "markets/اولاد_رجب/market.jpg"
+    },
+    {
+      "name": "بنده",
+      "path": "markets/بنده/current/current.json",
+      "image": "markets/بنده/market.jpg"
+    },
+    {
+      "name": "بيت_الجمله",
+      "path": "markets/بيت_الجمله/current/current.json",
+      "image": "markets/بيت_الجمله/market.jpg"
+    },
+    {
+      "name": "بيم",
+      "path": "markets/بيم/current/current.json",
+      "image": "markets/بيم/market.jpg"
+    },
+    {
+      "name": "بيم_ماركت",
+      "path": "markets/بيم_ماركت/current/current.json",
+      "image": "markets/بيم_ماركت/market.jpg"
+    },
+    {
+      "name": "جمله_ماركت",
+      "path": "markets/جمله_ماركت/current/current.json",
+      "image": "markets/جمله_ماركت/market.jpg"
+    },
+    {
+      "name": "جمله_ماركت_-_المعادي",
+      "path": "markets/جمله_ماركت_-_المعادي/current/current.json",
+      "image": "markets/جمله_ماركت_-_المعادي/market.jpg"
+    },
+    {
+      "name": "خير_زمان",
+      "path": "markets/خير_زمان/current/current.json",
+      "image": "markets/خير_زمان/market.jpg"
+    },
+    {
+      "name": "رويال_هاوس",
+      "path": "markets/رويال_هاوس/current/current.json",
+      "image": "markets/رويال_هاوس/market.jpg"
+    },
+    {
+      "name": "زاهر_ماركت",
+      "path": "markets/زاهر_ماركت/current/current.json",
+      "image": "markets/زاهر_ماركت/market.jpg"
+    },
+    {
+      "name": "زهران_ماركت",
+      "path": "markets/زهران_ماركت/current/current.json",
+      "image": "markets/زهران_ماركت/market.jpg"
+    },
+    {
+      "name": "سبينيس",
+      "path": "markets/سبينيس/current/current.json",
+      "image": "markets/سبينيس/market.jpg"
+    },
+    {
+      "name": "سبينيس_اكسترا_-_مول_العرب_&_مول_طنطا",
+      "path": "markets/سبينيس_اكسترا_-_مول_العرب_&_مول_طنطا/current/current.json",
+      "image": "markets/سبينيس_اكسترا_-_مول_العرب_&_مول_طنطا/market.jpg"
+    },
+    {
+      "name": "سراي_ماركت",
+      "path": "markets/سراي_ماركت/current/current.json",
+      "image": "markets/سراي_ماركت/market.jpg"
+    },
+    {
+      "name": "سعودى",
+      "path": "markets/سعودى/current/current.json",
+      "image": "markets/سعودى/market.jpg"
+    },
+    {
+      "name": "سوبيكو",
+      "path": "markets/سوبيكو/current/current.json",
+      "image": "markets/سوبيكو/market.jpg"
+    },
+    {
+      "name": "سوبيكوسنجر_&_العمرانية_&_النعام",
+      "path": "markets/سوبيكوسنجر_&_العمرانية_&_النعام/current/current.json",
+      "image": "markets/سوبيكوسنجر_&_العمرانية_&_النعام/market.jpg"
+    },
+    {
+      "name": "عرفة_ماركت",
+      "path": "markets/عرفة_ماركت/current/current.json",
+      "image": "markets/عرفة_ماركت/market.jpg"
+    },
+    {
+      "name": "فتح_الله",
+      "path": "markets/فتح_الله/current/current.json",
+      "image": "markets/فتح_الله/market.jpg"
+    },
+    {
+      "name": "فتح_الله_ماركت",
+      "path": "markets/فتح_الله_ماركت/current/current.json",
+      "image": "markets/فتح_الله_ماركت/market.jpg"
+    },
+    {
+      "name": "كارفور",
+      "path": "markets/كارفور/current/current.json",
+      "image": "markets/كارفور/market.jpg"
+    },
+    {
+      "name": "كارفور-_برميلان",
+      "path": "markets/كارفور-_برميلان/current/current.json",
+      "image": "markets/كارفور-_برميلان/market.jpg"
+    },
+    {
+      "name": "كازيون",
+      "path": "markets/كازيون/current/current.json",
+      "image": "markets/كازيون/market.jpg"
+    },
+    {
+      "name": "لولو",
+      "path": "markets/لولو/current/current.json",
+      "image": "markets/لولو/market.jpg"
+    },
+    {
+      "name": "مارت_فيل_&_المحلاوي",
+      "path": "markets/مارت_فيل_&_المحلاوي/current/current.json",
+      "image": "markets/مارت_فيل_&_المحلاوي/market.jpg"
+    },
+    {
+      "name": "مترو_ماركت",
+      "path": "markets/مترو_ماركت/current/current.json",
+      "image": "markets/مترو_ماركت/market.jpg"
+    },
+    {
+      "name": "محمود_الفار",
+      "path": "markets/محمود_الفار/current/current.json",
+      "image": "markets/محمود_الفار/market.jpg"
+    },
+    {
+      "name": "هايبر_موسي",
+      "path": "markets/هايبر_موسي/current/current.json",
+      "image": "markets/هايبر_موسي/market.jpg"
+    },
+    {
+      "name": "هايبر_وان",
+      "path": "markets/هايبر_وان/current/current.json",
+      "image": "markets/هايبر_وان/market.jpg"
+    }
+  ],
+  "files": [
+    "markets/الراية/current/current.json",
+    "markets/الرايه_ماركت/current/current.json",
+    "markets/العثيم/current/current.json",
+    "markets/العثيم_-_شارع_السودان_المهندسين/current/current.json",
+    "markets/الفرجانى/current/current.json",
+    "markets/المحلاوي/current/current.json",
+    "markets/اوسكار/current/current.json",
+    "markets/اولاد_المحلاوي/current/current.json",
+    "markets/اولاد_رجب/current/current.json",
+    "markets/بنده/current/current.json",
+    "markets/بيت_الجمله/current/current.json",
+    "markets/بيم/current/current.json",
+    "markets/بيم_ماركت/current/11490.json",
+    "markets/بيم_ماركت/current/current.json",
+    "markets/جمله_ماركت/current/current.json",
+    "markets/جمله_ماركت_-_المعادي/current/current.json",
+    "markets/خير_زمان/current/11503.json",
+    "markets/خير_زمان/current/current.json",
+    "markets/خير_زمان/current/visual_batch_11503_001.json",
+    "markets/رويال_هاوس/current/current.json",
+    "markets/زاهر_ماركت/current/current.json",
+    "markets/زهران_ماركت/current/current.json",
+    "markets/سبينيس/current/current.json",
+    "markets/سبينيس_اكسترا_-_مول_العرب_&_مول_طنطا/current/11477.json",
+    "markets/سبينيس_اكسترا_-_مول_العرب_&_مول_طنطا/current/current.json",
+    "markets/سراي_ماركت/current/current.json",
+    "markets/سعودى/current/current.json",
+    "markets/سوبيكو/current/current.json",
+    "markets/سوبيكوسنجر_&_العمرانية_&_النعام/current/current.json",
+    "markets/عرفة_ماركت/current/current.json",
+    "markets/فتح_الله/current/current.json",
+    "markets/فتح_الله_ماركت/current/current.json",
+    "markets/كارفور/current/current.json",
+    "markets/كارفور-_برميلان/current/current.json",
+    "markets/كازيون/current/11489.json",
+    "markets/كازيون/current/current.json",
+    "markets/لولو/current/11470.json",
+    "markets/لولو/current/current.json",
+    "markets/مارت_فيل_&_المحلاوي/current/11466.json",
+    "markets/مارت_فيل_&_المحلاوي/current/current.json",
+    "markets/مترو_ماركت/current/current.json",
+    "markets/محمود_الفار/current/current.json",
+    "markets/هايبر_موسي/current/11165.json",
+    "markets/هايبر_موسي/current/current.json",
+    "markets/هايبر_وان/current/11471.json",
+    "markets/هايبر_وان/current/current.json"
+  ]
+}

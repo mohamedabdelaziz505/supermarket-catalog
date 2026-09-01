@@ -1,0 +1,97 @@
+{
+  "flyer_id": "11490",
+  "market_id": "6e8783bd-85b7-4820-8874-b14b5345e725",
+  "valid_from": "2026-08-31",
+  "valid_to": "2026-09-05",
+  "pages": [
+    {
+      "file_id": "f9c517b1-d67a-448a-9966-ae8fa20fb780",
+      "local_path": "flyers/yabalash/11490-1-6428e6c369.jpg",
+      "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11490/1.jpg",
+      "sha256": "d4694c712a1a95fa8e76ca51b4a771c07ff28f06222ff278ab2af58c77299b38",
+      "ocr_status": "PENDING",
+      "items": []
+    },
+    {
+      "file_id": "66b35a11-1e0c-49fe-87fd-c133b67caa29",
+      "local_path": "flyers/yabalash/11490-2-aec7024071.jpg",
+      "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11490/2.jpg",
+      "sha256": "127575d79ab869b06a2ac356e30e8362ece6de79b9d385d16abdb2d85fb067ed",
+      "ocr_status": "PENDING",
+      "items": []
+    },
+    {
+      "file_id": "08773ca4-092e-4a25-8dce-57b2211ac0af",
+      "local_path": "flyers/yabalash/11490-3-0078f9c86f.jpg",
+      "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11490/3.jpg",
+      "sha256": "e4a02bf4aaefa779b758ae1dd4a6cae26bf9f08e54311b9848a0b5eeeab2a80f",
+      "ocr_status": "PENDING",
+      "items": []
+    },
+    {
+      "file_id": "b2adf3b4-3d71-40af-b7f9-6cd35e331ee0",
+      "local_path": "flyers/yabalash/11490-4-31ebc31674.jpg",
+      "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11490/4.jpg",
+      "sha256": "b31a26a1a8056e6a2790a39d457790c3660da9c3d46ddaa2c9c7939836d5bd79",
+      "ocr_status": "PENDING",
+      "items": []
+    },
+    {
+      "file_id": "835af02b-41b5-44c0-b8b9-63adbd3cc526",
+      "local_path": "flyers/yabalash/11490-5-e82119d707.jpg",
+      "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11490/5.jpg",
+      "sha256": "3f1aa5beda1a76525b9e781f97ad032ad84e0888fde06c86fbcd66e6ab5a6d16",
+      "ocr_status": "PENDING",
+      "items": []
+    },
+    {
+      "file_id": "06a361e2-da5c-45ee-af48-0d679492b268",
+      "local_path": "flyers/yabalash/11490-6-b33779361b.jpg",
+      "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11490/6.jpg",
+      "sha256": "54d2adf764857191195d137e177b524662601594a00917cf2409e2c39a487417",
+      "ocr_status": "PENDING",
+      "items": []
+    },
+    {
+      "file_id": "364c042b-3ed5-4f9f-9412-35a31eb3d077",
+      "local_path": "flyers/yabalash/11490-7-b56a675a4c.jpg",
+      "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11490/7.jpg",
+      "sha256": "9fef48a33cad158cff01e6bdbc9e4841a7a90458f7f5429cdc52061e743b9ce8",
+      "ocr_status": "PENDING",
+      "items": []
+    },
+    {
+      "file_id": "388efa60-4808-44fb-a705-4435097c9ace",
+      "local_path": "flyers/yabalash/11490-8-33750ce6a8.jpg",
+      "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11490/8.jpg",
+      "sha256": "df0d5a1a0af203637851ad67cf4ad24217948e695c8c587c7cdea4695690dc13",
+      "ocr_status": "PENDING",
+      "items": []
+    },
+    {
+      "file_id": "a3a0a5c4-4593-4c96-a9d5-c6cbb7d7fcf6",
+      "local_path": "flyers/yabalash/11490-9-1266a50950.jpg",
+      "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11490/9.jpg",
+      "sha256": "a5ba90839ba64956604807a7bf74130235fd61bcb51e80de698ad5e4bab58cee",
+      "ocr_status": "PENDING",
+      "items": []
+    },
+    {
+      "file_id": "959959b8-abc5-4fdb-83a4-fa5e57abd3e4",
+      "local_path": "flyers/yabalash/11490-10-a0d957c768.jpg",
+      "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11490/10.jpg",
+      "sha256": "197bad2fddd1dd7ae5038f06775455a897904218b9549bc8e4d9e773d64e7375",
+      "ocr_status": "PENDING",
+      "items": []
+    },
+    {
+      "file_id": "8b258368-7c94-4e09-989b-2f221ca6bf71",
+      "local_path": "flyers/yabalash/11490-11-5db2c1c9e0.jpg",
+      "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11490/11.jpg",
+      "sha256": "d28a7ab5e9a241da39b843ca66b29a82b1c88f59f10b9194aecc6c47269e84d1",
+      "ocr_status": "PENDING",
+      "items": []
+    }
+  ],
+  "offers": []
+}

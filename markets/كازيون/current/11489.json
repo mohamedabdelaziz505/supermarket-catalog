@@ -1,0 +1,25 @@
+{
+  "flyer_id": "11489",
+  "market_id": "44764502-8a98-4065-b03e-6ebd79cd91db",
+  "valid_from": "2026-08-31",
+  "valid_to": "2026-09-03",
+  "pages": [
+    {
+      "file_id": "a5ce311f-cf5e-40b2-a04d-b0755f8aff47",
+      "local_path": "flyers/yabalash/11489-1-36ee231bf3.jpg",
+      "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11489/1.jpg",
+      "sha256": "9de07eb4d86398179b1c139727bbbfa376c1853c6204886f7b40d72957d27e2b",
+      "ocr_status": "PENDING",
+      "items": []
+    },
+    {
+      "file_id": "88809ff8-255a-42e2-9eb2-eae0af44b3ce",
+      "local_path": "flyers/yabalash/11489-2-d2b8e4d90e.jpg",
+      "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11489/2.jpg",
+      "sha256": "33d563bd932d60279974d84625fb86406223b6bad49ddab75bdcb6837b3b73c1",
+      "ocr_status": "PENDING",
+      "items": []
+    }
+  ],
+  "offers": []
+}

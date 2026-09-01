@@ -1,0 +1,217 @@
+{
+  "flyer_id": "11471",
+  "market_id": "7fa08703-9c3e-4b50-8143-bd7e42b88d09",
+  "valid_from": "2026-08-27",
+  "valid_to": "2026-09-05",
+  "pages": [
+    {
+      "file_id": "d0a40fa0-ecd7-4e43-9fa9-63b7077f71f7",
+      "local_path": "flyers/yabalash/11471-1-4efc1c1b75.jpg",
+      "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11471/1.jpg",
+      "sha256": "8636a0ce416a60befbc9e116a8930d6797012a19e289af16584e1d5750517da6",
+      "ocr_status": "PENDING",
+      "items": []
+    },
+    {
+      "file_id": "67db1f0b-3c9c-4063-810a-8851f127e104",
+      "local_path": "flyers/yabalash/11471-2-44b0de9c91.jpg",
+      "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11471/2.jpg",
+      "sha256": "66c8a655ca17f296701494971d07e0f27ed203e13c35972187a3190884129019",
+      "ocr_status": "PENDING",
+      "items": []
+    },
+    {
+      "file_id": "3af95781-ab68-4b1a-968d-8958c4188d71",
+      "local_path": "flyers/yabalash/11471-3-f4b5b48a3e.jpg",
+      "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11471/3.jpg",
+      "sha256": "ac9f6acaa8b504d6e2f7f45386b9b9686995f23572639a9f42afcce0e9c39a76",
+      "ocr_status": "PENDING",
+      "items": []
+    },
+    {
+      "file_id": "bb04b09d-9287-4881-9519-7d6d09bac68b",
+      "local_path": "flyers/yabalash/11471-4-649571eb5e.jpg",
+      "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11471/4.jpg",
+      "sha256": "e6c14f184ed49f862b8f54f6d789fd974efc06637dde80ddbca9591660feda8f",
+      "ocr_status": "PENDING",
+      "items": []
+    },
+    {
+      "file_id": "2f71dafe-2892-4525-be3b-c404fd3ee73d",
+      "local_path": "flyers/yabalash/11471-5-328a64a561.jpg",
+      "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11471/5.jpg",
+      "sha256": "cd0fcc5b1c1655de1897de4425198e79e055dc543735fa7f65431ed0980f4eb0",
+      "ocr_status": "PENDING",
+      "items": []
+    },
+    {
+      "file_id": "815c10b0-d04e-420f-b701-a85221e0c834",
+      "local_path": "flyers/yabalash/11471-6-d4d459431c.jpg",
+      "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11471/6.jpg",
+      "sha256": "e3c45b89eb3bfa760fd265dfdc07df62c4da11bbb8c78c7ac914bcb194c7c533",
+      "ocr_status": "PENDING",
+      "items": []
+    },
+    {
+      "file_id": "748015c4-0b7b-495f-a956-4b2a5a4c25b0",
+      "local_path": "flyers/yabalash/11471-7-ed3e5c7918.jpg",
+      "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11471/7.jpg",
+      "sha256": "dd46c91112db3bdc7117e111cb9f23fb41859826b4eb307587382b481b247061",
+      "ocr_status": "PENDING",
+      "items": []
+    },
+    {
+      "file_id": "e0d110bf-0a0f-4556-94c0-e486b974153e",
+      "local_path": "flyers/yabalash/11471-8-3d9bb2e86d.jpg",
+      "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11471/8.jpg",
+      "sha256": "28b29fe37e88e0054598f96b4a93db414b00f1ec0535077fa392b9c050c1a244",
+      "ocr_status": "PENDING",
+      "items": []
+    },
+    {
+      "file_id": "385d99a8-115a-47bb-be69-bca7c0edae9f",
+      "local_path": "flyers/yabalash/11471-9-de9cac7395.jpg",
+      "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11471/9.jpg",
+      "sha256": "7b5f5a9ed1ff62271d436cb49fb280c58be64f79d85d69849e35c20c16c16a2e",
+      "ocr_status": "PENDING",
+      "items": []
+    },
+    {
+      "file_id": "dc5f3903-1df2-457e-bd8f-d18a0228deda",
+      "local_path": "flyers/yabalash/11471-10-5c1dc3f023.jpg",
+      "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11471/10.jpg",
+      "sha256": "b04410fce15f4bd021301464f1de71c0bf45209c8349ed13f0f29183e8070776",
+      "ocr_status": "PENDING",
+      "items": []
+    },
+    {
+      "file_id": "3e9604f0-9f3e-48bb-bc02-96bc1be8f466",
+      "local_path": "flyers/yabalash/11471-11-2326068e2d.jpg",
+      "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11471/11.jpg",
+      "sha256": "5584508c6bbff9043de0ccaa168c3acd9d36a00002aae3724403c8105cd4590d",
+      "ocr_status": "PENDING",
+      "items": []
+    },
+    {
+      "file_id": "fc7ed972-3b10-4d96-976e-aefe2966e316",
+      "local_path": "flyers/yabalash/11471-12-3f98ad6bf8.jpg",
+      "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11471/12.jpg",
+      "sha256": "d2416d2bde186c1e90364eadf836c3b803105620c0bcc82518e6b8b2fddc9723",
+      "ocr_status": "PENDING",
+      "items": []
+    },
+    {
+      "file_id": "fa9b972c-48c0-4818-b211-55d9fbe992ac",
+      "local_path": "flyers/yabalash/11471-13-bfe1d6edb8.jpg",
+      "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11471/13.jpg",
+      "sha256": "28efecf2b961a47126531ef4b2d74e9271a587b0c1d63982494892df5184cf0c",
+      "ocr_status": "PENDING",
+      "items": []
+    },
+    {
+      "file_id": "87aa9c39-592b-465e-a365-f1ebf8611bb5",
+      "local_path": "flyers/yabalash/11471-14-e80a1abf80.jpg",
+      "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11471/14.jpg",
+      "sha256": "c1737bc85d327ab877e662099ef042f0dece4ad86e1f4b976f5de2d3501e99c4",
+      "ocr_status": "PENDING",
+      "items": []
+    },
+    {
+      "file_id": "5cb3bd2d-a8f8-4668-9194-4c0240ba9711",
+      "local_path": "flyers/yabalash/11471-15-e2418bca70.jpg",
+      "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11471/15.jpg",
+      "sha256": "0fad817957c43cc9a9791d7b469359b0d4c65be4822f7b33639e1862d1b1f153",
+      "ocr_status": "PENDING",
+      "items": []
+    },
+    {
+      "file_id": "248671f8-ab72-4aa7-9cd8-3153c9e9d2d0",
+      "local_path": "flyers/yabalash/11471-16-3c68b437e1.jpg",
+      "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11471/16.jpg",
+      "sha256": "edd8fdc1c6205dcd715fe86c7b8154a31b3d384732f440d83fdb5465348b0b50",
+      "ocr_status": "PENDING",
+      "items": []
+    },
+    {
+      "file_id": "a68e065c-5692-4f15-812e-7e193df1502b",
+      "local_path": "flyers/yabalash/11471-17-3b50d0b4b0.jpg",
+      "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11471/17.jpg",
+      "sha256": "9548c3ba8638a347dacf87d4882f7bfd083fc54d8658b1c9202dc7b84fba7ad6",
+      "ocr_status": "PENDING",
+      "items": []
+    },
+    {
+      "file_id": "96144899-0328-4654-a46a-b4247424db30",
+      "local_path": "flyers/yabalash/11471-18-486d2abcb7.jpg",
+      "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11471/18.jpg",
+      "sha256": "f61c38da10d1ae13308f0884a03cd45c9c33304f8903ee0b6f94dae1f534028a",
+      "ocr_status": "PENDING",
+      "items": []
+    },
+    {
+      "file_id": "27e25c71-b631-47bf-9415-4c65e46f2a51",
+      "local_path": "flyers/yabalash/11471-19-4dcccd8a35.jpg",
+      "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11471/19.jpg",
+      "sha256": "b653370e9072ad8155c4d0566db5a57c601f530523afe2881f149e7f850d3c47",
+      "ocr_status": "PENDING",
+      "items": []
+    },
+    {
+      "file_id": "eb803da5-a122-454a-8722-a1c3c9b378f4",
+      "local_path": "flyers/yabalash/11471-20-e5ff7fd065.jpg",
+      "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11471/20.jpg",
+      "sha256": "886360c04b13560831d2d119d3bfb3f0f9afc95bf620b5925b8986600cacb963",
+      "ocr_status": "PENDING",
+      "items": []
+    },
+    {
+      "file_id": "4335a391-1c19-416a-ba9f-1f24303bded7",
+      "local_path": "flyers/yabalash/11471-21-7063fd75b7.jpg",
+      "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11471/21.jpg",
+      "sha256": "e25ec0c3b5ea6c7849b79a9999c9bcf14d81eb6b59a15068dd118ffbb9e902f3",
+      "ocr_status": "PENDING",
+      "items": []
+    },
+    {
+      "file_id": "016ede73-0224-4d48-bcbe-a9c6cb2473eb",
+      "local_path": "flyers/yabalash/11471-22-14f63ac596.jpg",
+      "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11471/22.jpg",
+      "sha256": "95631fe98c3345964f942e414bf19972ab81367a2cf091d1726971d72a0a7076",
+      "ocr_status": "PENDING",
+      "items": []
+    },
+    {
+      "file_id": "8f837be5-e27b-4d94-a277-1021a5489976",
+      "local_path": "flyers/yabalash/11471-23-aaf909db23.jpg",
+      "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11471/23.jpg",
+      "sha256": "3952c29fbe3790d11832e578248ca01ddfe2883fecf496bbc2a0f8324826677e",
+      "ocr_status": "PENDING",
+      "items": []
+    },
+    {
+      "file_id": "270b170c-a985-4e81-9385-b15b2abd0f2a",
+      "local_path": "flyers/yabalash/11471-24-e30dc88928.jpg",
+      "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11471/24.jpg",
+      "sha256": "6458d1edf814cee008a3fdde69b6f52fdb311a48aaa55525111a502f851757fc",
+      "ocr_status": "PENDING",
+      "items": []
+    },
+    {
+      "file_id": "3dfe3bd8-a723-4944-a60e-9be09843ac92",
+      "local_path": "flyers/yabalash/11471-25-10e99eff14.jpg",
+      "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11471/25.jpg",
+      "sha256": "d5d1de1d7e35600192f4a02570c690e6010e0633c1b5755bcb520ecc639d4c9b",
+      "ocr_status": "PENDING",
+      "items": []
+    },
+    {
+      "file_id": "8268c5b8-f1bf-4d7f-9145-33f205b945d9",
+      "local_path": "flyers/yabalash/11471-26-a9e37c68d5.jpg",
+      "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11471/26.jpg",
+      "sha256": "d8cd59488f5c05158076bf1f72d785086a4f44cdf94aa7a7c79f73b17879a028",
+      "ocr_status": "PENDING",
+      "items": []
+    }
+  ],
+  "offers": []
+}

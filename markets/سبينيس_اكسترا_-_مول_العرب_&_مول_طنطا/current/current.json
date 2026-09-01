@@ -1,0 +1,17 @@
+{
+  "market": {
+    "id": "2afc9e7c-285a-455b-9ed4-5363ab3c386b",
+    "code": "yabalash-3615fe725c00",
+    "name_ar": "سبينيس اكسترا - مول العرب & مول طنطا",
+    "name_en": "Yabalash: سبينيس اكسترا - مول العرب & مول طنطا"
+  },
+  "generated_at": "2026-09-01",
+  "flyers": [
+    {
+      "flyer_id": "11477",
+      "file": "current/11477.json",
+      "valid_to": "2026-09-01"
+    }
+  ],
+  "offers": []
+}

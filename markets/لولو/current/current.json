@@ -1,0 +1,17 @@
+{
+  "market": {
+    "id": "e7e4152a-867e-4028-968d-c7bc1bad8515",
+    "code": "yabalash-1efee303c7db",
+    "name_ar": "لولو",
+    "name_en": "Yabalash: لولو"
+  },
+  "generated_at": "2026-09-01",
+  "flyers": [
+    {
+      "flyer_id": "11470",
+      "file": "current/11470.json",
+      "valid_to": "2026-09-01"
+    }
+  ],
+  "offers": []
+}
