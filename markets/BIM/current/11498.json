@@ -139,8 +139,15 @@
       "local_path": "flyers/yabalash/11498-10-e5a5c23177.jpg",
       "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11498/10.jpg",
       "sha256": "387374e308615e28059d99b18e96e235c55594b2c38cd77088b9af9387325f1c",
-      "ocr_status": "PENDING",
-      "items": []
+      "ocr_status": "COMPLETED",
+      "items": [
+        {"name_ar": "كوكاكولا/فانتا/سبرايت 900 مل", "name_en": "Coca-Cola, Fanta or Sprite 900 ml", "price": 21.95, "old_price": 24.75, "category": "Beverages", "tags": ["BIM", "Soft Drinks", "Beverages"]},
+        {"name_ar": "سن توب عصير انواع 250 مل", "name_en": "SunTop Juice Assorted 250 ml", "price": 12.95, "old_price": 14.95, "category": "Beverages", "tags": ["BIM", "Juice", "Beverages"]},
+        {"name_ar": "لمار حليب نكهات 200 مل", "name_en": "Lamar Flavored Milk 200 ml", "price": 11.95, "old_price": 14.25, "category": "Beverages", "tags": ["BIM", "Milk", "Beverages"]},
+        {"name_ar": "حياة مياه طبيعية 330 مل عبوة 12", "name_en": "Hayat Natural Water 330 ml Pack of 12", "price": 53.50, "old_price": 58.95, "category": "Beverages", "tags": ["BIM", "Water", "Beverages"]},
+        {"name_ar": "حياة مياه طبيعية 600 مل عبوة 9", "name_en": "Hayat Natural Water 600 ml Pack of 9", "price": 53.50, "old_price": 58.50, "category": "Beverages", "tags": ["BIM", "Water", "Beverages"]},
+        {"name_ar": "حياة مياه طبيعية 1.5 لتر عبوة 9", "name_en": "Hayat Natural Water 1.5 L Pack of 9", "price": 53.50, "old_price": 62.95, "category": "Beverages", "tags": ["BIM", "Water", "Beverages"]}
+      ]
     },
     {
       "file_id": "097ea4c9-3984-4f2b-859e-e7ce78fff987",
