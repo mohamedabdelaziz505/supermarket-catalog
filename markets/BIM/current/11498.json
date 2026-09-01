@@ -67,16 +67,28 @@
       "local_path": "flyers/yabalash/11498-5-3309f1d781.jpg",
       "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11498/5.jpg",
       "sha256": "007f831a02361655c03bd2b43847099cbf9fe37f5ba78cd53778c3521dd73020",
-      "ocr_status": "PENDING",
-      "items": []
+      "ocr_status": "COMPLETED",
+      "items": [
+        {"name_ar": "لافاش كيري كلاسيك جبنة مثلثات 24 قطعة", "name_en": "La Vache qui rit Classic Cheese Triangles 24 pieces", "price": 95.95, "old_price": 113.95, "category": "Cheese", "tags": ["BIM", "Cheese", "Dairy"]},
+        {"name_ar": "جستنة جبنة انواع 500 جم", "name_en": "Jostana Assorted Cheese 500 g", "price": 32.95, "old_price": 35.50, "category": "Cheese", "tags": ["BIM", "Cheese", "Dairy"]},
+        {"name_ar": "عبور لاند جبنة بيضاء فيتا 250 جم", "name_en": "Obour Land White Feta Cheese 250 g", "price": 21.50, "old_price": 23.95, "category": "Cheese", "tags": ["BIM", "Cheese", "Dairy"]},
+        {"name_ar": "جوي زبادي طبيعي 100 جم", "name_en": "Juhayna Natural Yogurt 100 g", "price": 4.95, "old_price": 5.95, "category": "Groceries", "tags": ["BIM", "Yogurt", "Dairy"]},
+        {"name_ar": "المراعي مشروب زبادي انواع 220 مل", "name_en": "Almarai Yogurt Drink Assorted 220 ml", "price": 14.50, "old_price": 16.95, "category": "Groceries", "tags": ["BIM", "Yogurt", "Dairy"]}
+      ]
     },
     {
       "file_id": "d85bc0a8-2866-4df9-abcf-e3b24cbb20b0",
       "local_path": "flyers/yabalash/11498-6-9334191be8.jpg",
       "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11498/6.jpg",
       "sha256": "d8c6ad6f3a6e749fd1f670499b71f9ac5b91c2a1c9e17092d471248d760dacf0",
-      "ocr_status": "PENDING",
-      "items": []
+      "ocr_status": "COMPLETED",
+      "items": [
+        {"name_ar": "كوكي وجبة دجاج مقلية حار/عادي قطع", "name_en": "Koki Fried Chicken Meal Hot or Regular", "price": 234.05, "old_price": 274.95, "category": "Groceries", "tags": ["BIM", "Frozen Food", "Chicken"]},
+        {"name_ar": "كوكي سترپس سوبر توفير حار/عادي 1 كجم", "name_en": "Koki Chicken Strips Super Saver Hot or Regular 1 kg", "price": 274.95, "old_price": 324.95, "category": "Groceries", "tags": ["BIM", "Frozen Food", "Chicken"]},
+        {"name_ar": "جيفركس ملوخية 400 جم", "name_en": "Givrex Molokhia 400 g", "price": 16.95, "old_price": 20.00, "category": "Groceries", "tags": ["BIM", "Frozen Food", "Vegetables"]},
+        {"name_ar": "جيفركس بامية صغيرة 400 جم", "name_en": "Givrex Small Okra 400 g", "price": 54.95, "old_price": 67.00, "category": "Groceries", "tags": ["BIM", "Frozen Food", "Vegetables"]},
+        {"name_ar": "بيتزاريا مشور رومي/شيدر/موتزاريلا 500 جم", "name_en": "Pizzaria Mozzarella Cheddar Mix 500 g", "price": 59.95, "old_price": 69.95, "category": "Cheese", "tags": ["BIM", "Cheese", "Frozen Food"]}
+      ]
     },
     {
       "file_id": "0d81d691-845e-4681-af3c-c8e60e44fdf0",
