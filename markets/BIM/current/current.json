@@ -12,6 +12,11 @@
       "flyer_id": "11490",
       "file": "current/11490.json",
       "valid_to": "2026-09-05"
+    },
+    {
+      "flyer_id": "11498",
+      "file": "current/11498.json",
+      "valid_to": "2026-09-07"
     }
   ],
   "offers": []
