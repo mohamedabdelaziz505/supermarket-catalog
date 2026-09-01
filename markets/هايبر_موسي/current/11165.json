@@ -31,7 +31,10 @@
             130,
             310,
             275
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "دومتى جبنه ملح خفيف وزن",
@@ -45,7 +48,10 @@
             130,
             640,
             275
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "الاهرام جبنه قريش وزن",
@@ -59,7 +65,10 @@
             150,
             935,
             275
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "قتيلو جبنه ملح خفيف تابوس ٢٥٠ جرام",
@@ -73,7 +82,10 @@
             345,
             325,
             480
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "جبنه موزاريلا اكسترا وزن",
@@ -87,7 +99,10 @@
             330,
             615,
             485
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "ماى ميت قشطه رومى ٢٥٠ جرام",
@@ -101,7 +116,10 @@
             375,
             955,
             475
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "سو جود بروست دجاج مخلى ۹۰۰ جرام",
@@ -115,7 +133,10 @@
             530,
             455,
             700
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "سو جود شاورمه دجاج ٤٠٠ جرام",
@@ -129,7 +150,10 @@
             560,
             935,
             695
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "ماى ميت بيف برجر ٢٥ قطعه ۱ كيلو جرام",
@@ -143,7 +167,10 @@
             770,
             345,
             940
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "شيكيتبتا دجاج مقلى بارد - حار ۱۲ قطعه",
@@ -157,7 +184,10 @@
             755,
             925,
             940
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         }
       ]
     },
@@ -180,7 +210,10 @@
             150,
             265,
             325
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "الحبايب سكر ابيض فاخر كيس ١ كيلو",
@@ -194,7 +227,10 @@
             155,
             595,
             325
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "غاليه زيت خليط ٦٠٠ مللى",
@@ -208,7 +244,10 @@
             160,
             855,
             320
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "الترا مبرد هواء ماتور نحاس ۳ سرعات",
@@ -222,7 +261,10 @@
             370,
             285,
             545
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "ايفان شيكولاته سبريد ٧٥٠ جرام",
@@ -236,7 +278,10 @@
             375,
             600,
             545
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "المطبخ مكرونه ٤٠٠ جرام انواع",
@@ -250,7 +295,10 @@
             390,
             945,
             540
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "تي شيرت رجالى ساده هاشيرا",
@@ -264,7 +312,10 @@
             580,
             495,
             760
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "تايجر طقم براد حراري + ٦ فنجان",
@@ -278,7 +329,10 @@
             630,
             950,
             740
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "تايد مسحوق اتوماتيك ٩ كيلو انواع",
@@ -292,7 +346,10 @@
             795,
             380,
             985
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "اريال رجل اتوماتيك ع ٢,٣٥ كيلو انواع",
@@ -306,7 +363,10 @@
             795,
             800,
             965
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         }
       ]
     },
@@ -329,7 +389,10 @@
             195,
             310,
             315
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "جبنه رومى بطارخ ٢٥٠ جرام",
@@ -343,7 +406,10 @@
             175,
             625,
             305
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "جبنه براميلي وزن",
@@ -357,7 +423,10 @@
             195,
             945,
             290
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "فارم تشيز جبنه فلمنك - جودة ٢٥٠ جرام",
@@ -371,7 +440,10 @@
             375,
             335,
             535
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "دومتى جبنه ملح خفيف طبيعى ١٠0٪ وزن",
@@ -385,7 +457,10 @@
             445,
             630,
             530
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "قتيلو جبنه ملح خفيف وزن",
@@ -399,7 +474,10 @@
             435,
             950,
             530
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "فريش فارم لانشون بقرى - لانشون دجاج عادة - فلفل زيتون ٢٥٠ جرام",
@@ -413,7 +491,10 @@
             610,
             320,
             735
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "أطياب لانشون عادة - فلفل - زيتون - دجاج ٢٥٠ جرام",
@@ -427,7 +508,10 @@
             600,
             645,
             740
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "جبنه شيدر مستورد ٢٥٠ جرام",
@@ -441,7 +525,10 @@
             620,
             930,
             755
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "فريش فارم رول",
@@ -455,7 +542,10 @@
             870,
             335,
             970
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "فريش فارم قشطه رومى ٢٥٠ جرام",
@@ -469,7 +559,10 @@
             800,
             640,
             965
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "فريش فارم قشطه صدور دجاج مدخن ٢٥٠ جرام",
@@ -483,7 +576,10 @@
             800,
             955,
             965
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         }
       ]
     },
@@ -506,7 +602,10 @@
             150,
             310,
             305
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "زيتون اسبانى وسط وزن",
@@ -520,7 +619,10 @@
             150,
             645,
             300
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "طرش بوليف مشكل لوكس وزن",
@@ -534,7 +636,10 @@
             145,
             875,
             300
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "دومتى جبنه جولد فيتا تتراباك ٥٠٠ جرام",
@@ -548,7 +653,10 @@
             380,
             330,
             500
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "دومتى جبنه فيتا ساده - اسطنبولي - زيتون تتراك ٥٠٠ جرام",
@@ -562,7 +670,10 @@
             385,
             630,
             495
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "عبور لاند جبنه مطبوخه كريمى بطعم القشطه - شيدر - رومي - زيتون ٥٠٠ جرام",
@@ -576,7 +687,10 @@
             360,
             930,
             505
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "قتيلو سمن طبيعى ٩٠٠ جرام",
@@ -590,7 +704,10 @@
             570,
             260,
             725
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "قتيلو جبنه براميلي بالفلفل - اسطنبولي طبيعى ٩٠٠ جرام",
@@ -604,7 +721,10 @@
             620,
             625,
             720
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "قتيلو جبنه ملح خفيف تابوس ٥٠٠ جرام",
@@ -618,7 +738,10 @@
             595,
             925,
             725
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "مفروم بقرى فريش وزن",
@@ -632,7 +755,10 @@
             810,
             330,
             960
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "كبده وقلب وكلاوى فريش وزن",
@@ -646,7 +772,10 @@
             800,
             630,
             960
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "لحم كندوز احمر / ملبس فريش وزن",
@@ -660,7 +789,10 @@
             800,
             935,
             955
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         }
       ]
     },
@@ -683,7 +815,10 @@
             190,
             335,
             290
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "لحم خضار مجمد وزن",
@@ -697,7 +832,10 @@
             185,
             645,
             290
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "سجق كندوز - كفتة سيخ - برجر فريش وزن",
@@ -711,7 +849,10 @@
             155,
             930,
             310
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "بصل احمر وزن",
@@ -725,7 +866,10 @@
             370,
             335,
             535
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "كفته شوى مجمد - برجر مجمد وزن",
@@ -739,7 +883,10 @@
             375,
             620,
             535
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "كبده شرائح - عصافير مستوردة وزن",
@@ -753,7 +900,10 @@
             385,
             950,
             495
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "تين سلطانى وزن",
@@ -767,7 +917,10 @@
             585,
             320,
             750
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "كنتالوب وزن",
@@ -781,7 +934,10 @@
             585,
             630,
             745
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "كرنب احمر قطعه",
@@ -795,7 +951,10 @@
             580,
             930,
             745
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "هوكس سى فود مكس (فواكه البحر) ٤٢٠ جرام",
@@ -809,7 +968,10 @@
             805,
             290,
             975
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "فريش فارم بطاطس نصف مقليه كيس ٢,٥ كيلو جرام",
@@ -823,7 +985,10 @@
             800,
             575,
             965
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "فريش فارم ملوخيه مخروطة كيس ٤٠٠ جرام",
@@ -837,7 +1002,10 @@
             810,
             910,
             970
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         }
       ]
     },
@@ -860,7 +1028,10 @@
             160,
             305,
             360
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "قنجارى بانيه بارد - حار ۹۰۰ جرام",
@@ -874,7 +1045,10 @@
             160,
             615,
             360
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "روفى دجاج مجمد ۱۰۰۰-۱۱۰۰ جرام",
@@ -888,7 +1062,10 @@
             145,
             890,
             360
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "دايم كفته بقرى عائلي ٧٠٠ جرام",
@@ -902,7 +1079,10 @@
             490,
             335,
             620
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "سو جود ستربس بارد - حار ۹۰۰ جرام",
@@ -916,7 +1096,10 @@
             430,
             615,
             625
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "ميزه وجبه دجاج دجاج مقلى بارد / حار ۱۲ قطعه + بطاطس",
@@ -930,7 +1113,10 @@
             440,
             935,
             615
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "فريش فارم كفتة سيخ ۹۰۰ جرام - بيف برجر ۱ كجم",
@@ -944,7 +1130,10 @@
             745,
             490,
             945
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "دايم سجق شرقى عائلى ٧٠٠ جرام",
@@ -958,7 +1147,10 @@
             775,
             890,
             945
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         }
       ]
     },
@@ -981,7 +1173,10 @@
             205,
             320,
             375
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "فلفل اسود حصى - ناعم ۱۲٥ جرام",
@@ -995,7 +1190,10 @@
             150,
             615,
             375
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "اشهى بيف برجر جامبو ١,٥ كيلو جرام",
@@ -1009,7 +1207,10 @@
             155,
             865,
             380
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "مكرونه انواع وزن",
@@ -1023,7 +1224,10 @@
             435,
             490,
             670
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "ارز بسمتى هندی ذهبي درجه اولى وزن",
@@ -1037,7 +1241,10 @@
             435,
             850,
             650
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "ذره فُشار وزن",
@@ -1051,7 +1258,10 @@
             735,
             415,
             950
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "لوبيا مستورده وزن",
@@ -1065,7 +1275,10 @@
             730,
             850,
             955
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         }
       ]
     },
@@ -1088,7 +1301,10 @@
             165,
             285,
             325
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "المراد ارز ٥ كيلو جرام",
@@ -1102,7 +1318,10 @@
             160,
             590,
             325
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "افندى ارز مصری ۱ كيلو جرام",
@@ -1116,7 +1335,10 @@
             155,
             905,
             320
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "دون لوبيز ارز بسمتى ( ذهبي - ابیض اکیلو )",
@@ -1130,7 +1352,10 @@
             380,
             325,
             545
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "الضحى دقيق ۱ كيلو جرام",
@@ -1144,7 +1369,10 @@
             380,
             585,
             545
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "حلو الشام دقيق متعدد الاستخدامات ۹۰۰ جرام",
@@ -1158,7 +1386,10 @@
             390,
             910,
             545
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "نور ملح ۷۰۰ جرام ۳ قطع عرض",
@@ -1172,7 +1403,10 @@
             600,
             325,
             750
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "رويال مكرونه ۱ كيلو انواع",
@@ -1186,7 +1420,10 @@
             585,
             635,
             740
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "الملكه مكرونه ٤٠٠ جرام انواع",
@@ -1200,7 +1437,10 @@
             580,
             945,
             755
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "سهى زيت خليط ۱,٥ لتر",
@@ -1214,7 +1454,10 @@
             800,
             245,
             975
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "زيتي زيت خليط ۱ لتر",
@@ -1228,7 +1471,10 @@
             800,
             560,
             975
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "ساندي زيت دوار الشمس ۷۰۰ مللى",
@@ -1242,7 +1488,10 @@
             805,
             860,
             975
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         }
       ]
     },
@@ -1265,7 +1514,10 @@
             130,
             285,
             305
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "جولدن ميكس سمن ٦٨٠ جرام",
@@ -1279,7 +1531,10 @@
             150,
             565,
             290
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "حلوه زيت خليط ٤.٥ لتر",
@@ -1293,7 +1548,10 @@
             125,
             875,
             310
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "ام حسن شای ۲٥۰ جرام",
@@ -1307,7 +1565,10 @@
             375,
             285,
             510
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "جو عصير ۲۰۰مللى ٥ انواع",
@@ -1321,7 +1582,10 @@
             365,
             630,
             520
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "فك سفن مشروب غازي ۳۰۰مللى كانز انواع",
@@ -1335,7 +1599,10 @@
             380,
             945,
             510
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "فلاح بن محوج فاتح ووسط - غامق ۱۰۰ جرام",
@@ -1349,7 +1616,10 @@
             605,
             340,
             725
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "فلاح بن ساده فاتح - وسط - غامق ۲۰۰ جرام",
@@ -1363,7 +1633,10 @@
             610,
             645,
             725
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "ليبتون شاي ناعم ۲٥۰ جرام",
@@ -1377,7 +1650,10 @@
             610,
             885,
             735
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "ايزيس شاي اخضر نقى ٥٠ فلتر",
@@ -1391,7 +1667,10 @@
             790,
             310,
             950
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "ايزيس ينسون- نعناع - كركديه ٥٠ فلتر",
@@ -1405,7 +1684,12 @@
             790,
             620,
             955
-          ]
+          ],
+          "quality_flags": [
+            "old_price_below_current"
+          ],
+          "review_required": true,
+          "publishable": false
         },
         {
           "name_ar": "ايزيس بقدونس و كرفس ٥٠ فلتر + ٥ فلتر هديه",
@@ -1419,7 +1703,10 @@
             785,
             935,
             950
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         }
       ]
     },
@@ -1442,7 +1729,10 @@
             160,
             315,
             305
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "فايف مينتس ايس كريم ٧٥ جرام انواع",
@@ -1456,7 +1746,10 @@
             145,
             630,
             310
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "دريم كيك انواع ٤٠٠ جرام",
@@ -1470,7 +1763,10 @@
             140,
             935,
             310
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "هاينز مايونيز ۳۱۰ جرام ۲ قطعه خصم ۲۰٪ عرض",
@@ -1484,7 +1780,10 @@
             365,
             320,
             510
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "سفانه كاتشب جالون ۱ كيلو جرام",
@@ -1498,7 +1797,10 @@
             360,
             590,
             520
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "اد مى صلصه برطمان ۳۰۰ جرام",
@@ -1512,7 +1814,10 @@
             360,
             875,
             530
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "توليدو مشروم قطع ٤٠٠ جرام",
@@ -1526,7 +1831,10 @@
             580,
             260,
             735
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "توليدو كورند بيف ٣٤٠ جرام",
@@ -1540,7 +1848,10 @@
             580,
             595,
             735
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "الكمار تونه قطع ١٤٠ جرام",
@@ -1554,7 +1865,10 @@
             620,
             930,
             725
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "القاسم زيت زيتون ٥٠٠ مللى + زجاجه ١٢٥ مللى عرض",
@@ -1568,7 +1882,10 @@
             795,
             250,
             950
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "ستار خلطه كرسبى بارد-حار ۳۰۰ جرام ۲ق",
@@ -1582,7 +1899,10 @@
             800,
             630,
             955
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "توليدو ذره حلوه ٤٠٠ جرام",
@@ -1596,7 +1916,10 @@
             800,
             880,
             955
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         }
       ]
     },
@@ -1619,7 +1942,10 @@
             205,
             315,
             300
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "فيتراك مربى فراوله - تين ٤٣٠ جم (كريمى - عادى)",
@@ -1633,7 +1959,10 @@
             160,
             635,
             325
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "توليدو خل ابيض ۱ لتر",
@@ -1647,7 +1976,10 @@
             160,
             830,
             310
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "القاسم عسل اسود نقى ٧٥٠ جرام ۱+۱",
@@ -1661,7 +1993,10 @@
             380,
             275,
             535
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "القاسم عسل نحل ٧٥٠ جرام ۱+۱ عرض",
@@ -1675,7 +2010,10 @@
             395,
             620,
             540
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "اردهان حلاوه شيكولاته ٥٠٠ جرام",
@@ -1689,7 +2027,10 @@
             420,
             915,
             535
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "كادبوري شيكولاته بندق ٤ + ۱ عرض ١٥٠ جرام",
@@ -1703,7 +2044,10 @@
             635,
             330,
             740
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "بشاير حليب كامل الدسم ۱ لتر",
@@ -1717,7 +2061,10 @@
             590,
             560,
             755
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "جهينه حليب كامل الدسم ۱,٥ لتر قطعه",
@@ -1731,7 +2078,10 @@
             585,
             860,
             755
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "لارش كيك ميلت كاكاو بصوص الشيكولاته علبه ٦ق",
@@ -1745,7 +2095,10 @@
             800,
             290,
             975
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "تام تام كيك مارشملو انواع علبة ١٢ق",
@@ -1759,7 +2112,10 @@
             805,
             615,
             975
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "اوريو ٦ قطعه + ۲ قطعه مجانا",
@@ -1773,7 +2129,10 @@
             895,
             930,
             945
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         }
       ]
     },
@@ -1796,7 +2155,10 @@
             170,
             290,
             305
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "كلاسي ايكو باك ٥٥٠ منديل",
@@ -1810,7 +2172,10 @@
             220,
             615,
             305
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "زينه مناديل تريو ٥٠٠ منديل ۳ قطعه",
@@ -1824,7 +2189,10 @@
             175,
             935,
             310
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "فاين بيبي حفاضات دبل لوك مقاس ٥ ماكس ٧٦ حفاضه",
@@ -1838,7 +2206,10 @@
             380,
             275,
             525
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "فاين بيبي حفاضات دبل لوك مقاس ٣-٤ ٨٠ حفاضه",
@@ -1852,7 +2223,10 @@
             370,
             645,
             525
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "فاين مناديل تواليت كمفورت ٤+٢ بكره",
@@ -1866,7 +2240,10 @@
             395,
             925,
             525
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "تريزمى شامبو انواع ٤٠٠ + بلسم ٤٠٠ مل ٥٠٪ خصم على البلسم",
@@ -1880,7 +2257,10 @@
             615,
             335,
             740
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "سوفى فوط طويل جدا (عادى - مسك ) ١٤ فوطه ٢ قطعه",
@@ -1894,7 +2274,10 @@
             620,
             630,
             735
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "هايجاين مناديل مبلله كول ووتر ٣٥ م + ٥ هديه ۳ قطع عرض انواع",
@@ -1908,7 +2291,10 @@
             590,
             935,
             735
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "الو ايفا حمام كريم ٢٥٠ مللى باوتش انواع",
@@ -1922,7 +2308,10 @@
             795,
             330,
             960
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "دوف شامبو ٣٥٠ مللى خصم ١٥ ج انواع",
@@ -1936,7 +2325,10 @@
             805,
             595,
             960
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "صانسيلك شامبو ٦٠٠ مللى خصم ٢٠٪ انواع",
@@ -1950,7 +2342,10 @@
             805,
             915,
             960
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         }
       ]
     },
@@ -1973,7 +2368,10 @@
             185,
             335,
             305
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "فوج عطر بخاخ ۱۲۰ مللى انواع",
@@ -1987,7 +2385,10 @@
             155,
             605,
             305
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "اكس برفان جيب ۱۷ مللى انواع",
@@ -2001,7 +2402,10 @@
             185,
             930,
             305
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "سيجنال معجون ۱۲۰ مللى + ۲۰ مللى هديه",
@@ -2015,7 +2419,10 @@
             435,
             330,
             495
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "سيجنال فرش اسنان نظافه ثلاثيه ۲ + ۱ هديه",
@@ -2029,7 +2436,10 @@
             355,
             550,
             525
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "كامى شاور جل ۱ لتر وفر ۱۰ج انواع",
@@ -2043,7 +2453,10 @@
             365,
             925,
             520
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "دورو صابون ۱۱۰ جرام ٤ قطعه انواع",
@@ -2057,7 +2470,10 @@
             600,
             330,
             740
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "لوكس صابون ١٦٥ جرام ٤ قطع انواع",
@@ -2071,7 +2487,10 @@
             595,
             640,
             735
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "كلوز اب معجون ۱۰۰مل انواع + ۲٥ مل مجانا",
@@ -2085,7 +2504,10 @@
             600,
             945,
             735
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "مدار جل اتوماتيك ٢,٥ كجم + جل ۹۰۰ مللى هديه انواع",
@@ -2099,7 +2521,10 @@
             790,
             305,
             965
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "برسيل مسحوق اتوماتيك ت ٢.٥ كيلوانواع",
@@ -2113,7 +2538,10 @@
             795,
             580,
             965
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "اوكسى مسحوق اتوماتيك ٨ كيلو + ۱ كيلو انواع",
@@ -2127,7 +2555,10 @@
             790,
             885,
             965
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         }
       ]
     },
@@ -2150,7 +2581,10 @@
             140,
             310,
             310
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "باهى مسحوق يدوى ١ كيلو خصم 20% انواع",
@@ -2164,7 +2598,10 @@
             175,
             580,
             305
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "اريال مسحوق يدوي ٢ كيلو انواع",
@@ -2178,7 +2615,10 @@
             160,
             905,
             310
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "سيترس منظف متعدد الاغراض١ لتر انواع",
@@ -2192,7 +2632,10 @@
             365,
             305,
             525
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "نوفى معطر جو ٤٠٠ مللى انواع",
@@ -2206,7 +2649,10 @@
             360,
             605,
             520
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "بريل صابون سائل ليمون اخضر ٤ كيلو جرام",
@@ -2220,7 +2666,10 @@
             350,
             875,
             520
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "طقم قهوه ۱۲ قطعه TECHGROUP",
@@ -2234,7 +2683,10 @@
             565,
             280,
             735
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "تانك طقم شمع غيار برو ٦ وظائف",
@@ -2248,7 +2700,10 @@
             565,
             630,
             730
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "خصم 10% على جميع انواع السلالم",
@@ -2262,7 +2717,12 @@
             560,
             905,
             740
-          ]
+          ],
+          "quality_flags": [
+            "missing_or_invalid_price"
+          ],
+          "review_required": true,
+          "publishable": false
         },
         {
           "name_ar": "طقم صوانى استانلس ۳ قطع",
@@ -2276,7 +2736,10 @@
             840,
             345,
             955
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "العالميه ستاند منزلى متعدد الاستخدام ٤ دور",
@@ -2290,7 +2753,10 @@
             785,
             570,
             955
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "لمسه بلاست جردل كلينو بالمصفى الوان ١٦,٥ لتر م ١٤١٨",
@@ -2304,7 +2770,10 @@
             850,
             945,
             955
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         }
       ]
     },
@@ -2327,7 +2796,10 @@
             200,
             335,
             310
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "ميديا تك هاند بلندر ۱۲۰۰ وات",
@@ -2341,7 +2813,10 @@
             140,
             540,
             320
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "فريش خلاط شبح ۱ مطحنه",
@@ -2355,7 +2830,10 @@
             140,
             930,
             310
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "الترا فرن ٤٨ لتر",
@@ -2369,7 +2847,10 @@
             405,
             335,
             520
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "ميديا تك مكواه بخار راسيه 26",
@@ -2383,7 +2864,10 @@
             355,
             560,
             535
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "توشيبا مكنسه كهربائيه بدون كيس ۱.۸ لتر ۲۰۰۰ وات",
@@ -2397,7 +2881,10 @@
             370,
             885,
             515
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "مايوه رجالى مشجر خاص / عادى",
@@ -2411,7 +2898,10 @@
             575,
             340,
             745
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "تي شيرت بوليفار اوفر سايز",
@@ -2425,7 +2915,10 @@
             575,
             645,
             745
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "تي شيرت بوليفار بييه لوفر سايز",
@@ -2439,7 +2932,10 @@
             575,
             935,
             745
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         },
         {
           "name_ar": "خصم 10% على قسم الداخلي الرجالي",
@@ -2453,7 +2949,12 @@
             795,
             335,
             965
-          ]
+          ],
+          "quality_flags": [
+            "missing_or_invalid_price"
+          ],
+          "review_required": true,
+          "publishable": false
         },
         {
           "name_ar": "خصم 10% على البنطلون الجينز",
@@ -2467,7 +2968,12 @@
             790,
             645,
             965
-          ]
+          ],
+          "quality_flags": [
+            "missing_or_invalid_price"
+          ],
+          "review_required": true,
+          "publishable": false
         },
         {
           "name_ar": "مايوه DMS فرعوني 3ق",
@@ -2481,7 +2987,10 @@
             790,
             935,
             965
-          ]
+          ],
+          "quality_flags": [],
+          "review_required": false,
+          "publishable": true
         }
       ]
     }
@@ -2499,7 +3008,10 @@
         130,
         310,
         275
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "دومتى جبنه ملح خفيف وزن",
@@ -2513,7 +3025,10 @@
         130,
         640,
         275
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "الاهرام جبنه قريش وزن",
@@ -2527,7 +3042,10 @@
         150,
         935,
         275
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "قتيلو جبنه ملح خفيف تابوس ٢٥٠ جرام",
@@ -2541,7 +3059,10 @@
         345,
         325,
         480
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "جبنه موزاريلا اكسترا وزن",
@@ -2555,7 +3076,10 @@
         330,
         615,
         485
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "ماى ميت قشطه رومى ٢٥٠ جرام",
@@ -2569,7 +3093,10 @@
         375,
         955,
         475
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "سو جود بروست دجاج مخلى ۹۰۰ جرام",
@@ -2583,7 +3110,10 @@
         530,
         455,
         700
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "سو جود شاورمه دجاج ٤٠٠ جرام",
@@ -2597,7 +3127,10 @@
         560,
         935,
         695
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "ماى ميت بيف برجر ٢٥ قطعه ۱ كيلو جرام",
@@ -2611,7 +3144,10 @@
         770,
         345,
         940
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "شيكيتبتا دجاج مقلى بارد - حار ۱۲ قطعه",
@@ -2625,7 +3161,10 @@
         755,
         925,
         940
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "بريما زيت دوار الشمس اوكرانى ۳ لتر",
@@ -2639,7 +3178,10 @@
         150,
         265,
         325
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "الحبايب سكر ابيض فاخر كيس ١ كيلو",
@@ -2653,7 +3195,10 @@
         155,
         595,
         325
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "غاليه زيت خليط ٦٠٠ مللى",
@@ -2667,7 +3212,10 @@
         160,
         855,
         320
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "الترا مبرد هواء ماتور نحاس ۳ سرعات",
@@ -2681,7 +3229,10 @@
         370,
         285,
         545
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "ايفان شيكولاته سبريد ٧٥٠ جرام",
@@ -2695,7 +3246,10 @@
         375,
         600,
         545
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "المطبخ مكرونه ٤٠٠ جرام انواع",
@@ -2709,7 +3263,10 @@
         390,
         945,
         540
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "تي شيرت رجالى ساده هاشيرا",
@@ -2723,7 +3280,10 @@
         580,
         495,
         760
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "تايجر طقم براد حراري + ٦ فنجان",
@@ -2737,7 +3297,10 @@
         630,
         950,
         740
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "تايد مسحوق اتوماتيك ٩ كيلو انواع",
@@ -2751,7 +3314,10 @@
         795,
         380,
         985
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "اريال رجل اتوماتيك ع ٢,٣٥ كيلو انواع",
@@ -2765,7 +3331,10 @@
         795,
         800,
         965
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "قتيلو جبنه رومى شمع ٢٥٠ جرام",
@@ -2779,7 +3348,10 @@
         195,
         310,
         315
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "جبنه رومى بطارخ ٢٥٠ جرام",
@@ -2793,7 +3365,10 @@
         175,
         625,
         305
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "جبنه براميلي وزن",
@@ -2807,7 +3382,10 @@
         195,
         945,
         290
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "فارم تشيز جبنه فلمنك - جودة ٢٥٠ جرام",
@@ -2821,7 +3399,10 @@
         375,
         335,
         535
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "دومتى جبنه ملح خفيف طبيعى ١٠0٪ وزن",
@@ -2835,7 +3416,10 @@
         445,
         630,
         530
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "قتيلو جبنه ملح خفيف وزن",
@@ -2849,7 +3433,10 @@
         435,
         950,
         530
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "فريش فارم لانشون بقرى - لانشون دجاج عادة - فلفل زيتون ٢٥٠ جرام",
@@ -2863,7 +3450,10 @@
         610,
         320,
         735
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "أطياب لانشون عادة - فلفل - زيتون - دجاج ٢٥٠ جرام",
@@ -2877,7 +3467,10 @@
         600,
         645,
         740
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "جبنه شيدر مستورد ٢٥٠ جرام",
@@ -2891,7 +3484,10 @@
         620,
         930,
         755
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "فريش فارم رول",
@@ -2905,7 +3501,10 @@
         870,
         335,
         970
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "فريش فارم قشطه رومى ٢٥٠ جرام",
@@ -2919,7 +3518,10 @@
         800,
         640,
         965
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "فريش فارم قشطه صدور دجاج مدخن ٢٥٠ جرام",
@@ -2933,7 +3535,10 @@
         800,
         955,
         965
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "ساندى جبنه مثلثات ١٦ قطعه",
@@ -2947,7 +3552,10 @@
         150,
         310,
         305
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "زيتون اسبانى وسط وزن",
@@ -2961,7 +3569,10 @@
         150,
         645,
         300
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "طرش بوليف مشكل لوكس وزن",
@@ -2975,7 +3586,10 @@
         145,
         875,
         300
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "دومتى جبنه جولد فيتا تتراباك ٥٠٠ جرام",
@@ -2989,7 +3603,10 @@
         380,
         330,
         500
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "دومتى جبنه فيتا ساده - اسطنبولي - زيتون تتراك ٥٠٠ جرام",
@@ -3003,7 +3620,10 @@
         385,
         630,
         495
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "عبور لاند جبنه مطبوخه كريمى بطعم القشطه - شيدر - رومي - زيتون ٥٠٠ جرام",
@@ -3017,7 +3637,10 @@
         360,
         930,
         505
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "قتيلو سمن طبيعى ٩٠٠ جرام",
@@ -3031,7 +3654,10 @@
         570,
         260,
         725
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "قتيلو جبنه براميلي بالفلفل - اسطنبولي طبيعى ٩٠٠ جرام",
@@ -3045,7 +3671,10 @@
         620,
         625,
         720
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "قتيلو جبنه ملح خفيف تابوس ٥٠٠ جرام",
@@ -3059,7 +3688,10 @@
         595,
         925,
         725
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "مفروم بقرى فريش وزن",
@@ -3073,7 +3705,10 @@
         810,
         330,
         960
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "كبده وقلب وكلاوى فريش وزن",
@@ -3087,7 +3722,10 @@
         800,
         630,
         960
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "لحم كندوز احمر / ملبس فريش وزن",
@@ -3101,7 +3739,10 @@
         800,
         935,
         955
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "مفروم مستورد وزن",
@@ -3115,7 +3756,10 @@
         190,
         335,
         290
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "لحم خضار مجمد وزن",
@@ -3129,7 +3773,10 @@
         185,
         645,
         290
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "سجق كندوز - كفتة سيخ - برجر فريش وزن",
@@ -3143,7 +3790,10 @@
         155,
         930,
         310
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "بصل احمر وزن",
@@ -3157,7 +3807,10 @@
         370,
         335,
         535
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "كفته شوى مجمد - برجر مجمد وزن",
@@ -3171,7 +3824,10 @@
         375,
         620,
         535
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "كبده شرائح - عصافير مستوردة وزن",
@@ -3185,7 +3841,10 @@
         385,
         950,
         495
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "تين سلطانى وزن",
@@ -3199,7 +3858,10 @@
         585,
         320,
         750
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "كنتالوب وزن",
@@ -3213,7 +3875,10 @@
         585,
         630,
         745
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "كرنب احمر قطعه",
@@ -3227,7 +3892,10 @@
         580,
         930,
         745
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "هوكس سى فود مكس (فواكه البحر) ٤٢٠ جرام",
@@ -3241,7 +3909,10 @@
         805,
         290,
         975
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "فريش فارم بطاطس نصف مقليه كيس ٢,٥ كيلو جرام",
@@ -3255,7 +3926,10 @@
         800,
         575,
         965
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "فريش فارم ملوخيه مخروطة كيس ٤٠٠ جرام",
@@ -3269,7 +3943,10 @@
         810,
         910,
         970
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "ميزه بانيه بارد - حار ۹۰۰ جرام",
@@ -3283,7 +3960,10 @@
         160,
         305,
         360
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "قنجارى بانيه بارد - حار ۹۰۰ جرام",
@@ -3297,7 +3977,10 @@
         160,
         615,
         360
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "روفى دجاج مجمد ۱۰۰۰-۱۱۰۰ جرام",
@@ -3311,7 +3994,10 @@
         145,
         890,
         360
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "دايم كفته بقرى عائلي ٧٠٠ جرام",
@@ -3325,7 +4011,10 @@
         490,
         335,
         620
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "سو جود ستربس بارد - حار ۹۰۰ جرام",
@@ -3339,7 +4028,10 @@
         430,
         615,
         625
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "ميزه وجبه دجاج دجاج مقلى بارد / حار ۱۲ قطعه + بطاطس",
@@ -3353,7 +4045,10 @@
         440,
         935,
         615
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "فريش فارم كفتة سيخ ۹۰۰ جرام - بيف برجر ۱ كجم",
@@ -3367,7 +4062,10 @@
         745,
         490,
         945
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "دايم سجق شرقى عائلى ٧٠٠ جرام",
@@ -3381,7 +4079,10 @@
         775,
         890,
         945
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "فيجيتار بارد - حار وزن",
@@ -3395,7 +4096,10 @@
         205,
         320,
         375
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "فلفل اسود حصى - ناعم ۱۲٥ جرام",
@@ -3409,7 +4113,10 @@
         150,
         615,
         375
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "اشهى بيف برجر جامبو ١,٥ كيلو جرام",
@@ -3423,7 +4130,10 @@
         155,
         865,
         380
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "مكرونه انواع وزن",
@@ -3437,7 +4147,10 @@
         435,
         490,
         670
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "ارز بسمتى هندی ذهبي درجه اولى وزن",
@@ -3451,7 +4164,10 @@
         435,
         850,
         650
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "ذره فُشار وزن",
@@ -3465,7 +4181,10 @@
         735,
         415,
         950
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "لوبيا مستورده وزن",
@@ -3479,7 +4198,10 @@
         730,
         850,
         955
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "عاصم ارز ۱ كيلو جرام",
@@ -3493,7 +4215,10 @@
         165,
         285,
         325
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "المراد ارز ٥ كيلو جرام",
@@ -3507,7 +4232,10 @@
         160,
         590,
         325
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "افندى ارز مصری ۱ كيلو جرام",
@@ -3521,7 +4249,10 @@
         155,
         905,
         320
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "دون لوبيز ارز بسمتى ( ذهبي - ابیض اکیلو )",
@@ -3535,7 +4266,10 @@
         380,
         325,
         545
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "الضحى دقيق ۱ كيلو جرام",
@@ -3549,7 +4283,10 @@
         380,
         585,
         545
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "حلو الشام دقيق متعدد الاستخدامات ۹۰۰ جرام",
@@ -3563,7 +4300,10 @@
         390,
         910,
         545
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "نور ملح ۷۰۰ جرام ۳ قطع عرض",
@@ -3577,7 +4317,10 @@
         600,
         325,
         750
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "رويال مكرونه ۱ كيلو انواع",
@@ -3591,7 +4334,10 @@
         585,
         635,
         740
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "الملكه مكرونه ٤٠٠ جرام انواع",
@@ -3605,7 +4351,10 @@
         580,
         945,
         755
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "سهى زيت خليط ۱,٥ لتر",
@@ -3619,7 +4368,10 @@
         800,
         245,
         975
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "زيتي زيت خليط ۱ لتر",
@@ -3633,7 +4385,10 @@
         800,
         560,
         975
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "ساندي زيت دوار الشمس ۷۰۰ مللى",
@@ -3647,7 +4402,10 @@
         805,
         860,
         975
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "ماكسى ۲ لتر انواع",
@@ -3661,7 +4419,10 @@
         130,
         285,
         305
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "جولدن ميكس سمن ٦٨٠ جرام",
@@ -3675,7 +4436,10 @@
         150,
         565,
         290
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "حلوه زيت خليط ٤.٥ لتر",
@@ -3689,7 +4453,10 @@
         125,
         875,
         310
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "ام حسن شای ۲٥۰ جرام",
@@ -3703,7 +4470,10 @@
         375,
         285,
         510
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "جو عصير ۲۰۰مللى ٥ انواع",
@@ -3717,7 +4487,10 @@
         365,
         630,
         520
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "فك سفن مشروب غازي ۳۰۰مللى كانز انواع",
@@ -3731,7 +4504,10 @@
         380,
         945,
         510
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "فلاح بن محوج فاتح ووسط - غامق ۱۰۰ جرام",
@@ -3745,7 +4521,10 @@
         605,
         340,
         725
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "فلاح بن ساده فاتح - وسط - غامق ۲۰۰ جرام",
@@ -3759,7 +4538,10 @@
         610,
         645,
         725
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "ليبتون شاي ناعم ۲٥۰ جرام",
@@ -3773,7 +4555,10 @@
         610,
         885,
         735
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "ايزيس شاي اخضر نقى ٥٠ فلتر",
@@ -3787,7 +4572,10 @@
         790,
         310,
         950
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "ايزيس ينسون- نعناع - كركديه ٥٠ فلتر",
@@ -3801,7 +4589,12 @@
         790,
         620,
         955
-      ]
+      ],
+      "quality_flags": [
+        "old_price_below_current"
+      ],
+      "review_required": true,
+      "publishable": false
     },
     {
       "name_ar": "ايزيس بقدونس و كرفس ٥٠ فلتر + ٥ فلتر هديه",
@@ -3815,7 +4608,10 @@
         785,
         935,
         950
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "حلو الشام جيلى فراوله ٧٠ جرام ۳ + ۱ هديه",
@@ -3829,7 +4625,10 @@
         160,
         315,
         305
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "فايف مينتس ايس كريم ٧٥ جرام انواع",
@@ -3843,7 +4642,10 @@
         145,
         630,
         310
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "دريم كيك انواع ٤٠٠ جرام",
@@ -3857,7 +4659,10 @@
         140,
         935,
         310
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "هاينز مايونيز ۳۱۰ جرام ۲ قطعه خصم ۲۰٪ عرض",
@@ -3871,7 +4676,10 @@
         365,
         320,
         510
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "سفانه كاتشب جالون ۱ كيلو جرام",
@@ -3885,7 +4693,10 @@
         360,
         590,
         520
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "اد مى صلصه برطمان ۳۰۰ جرام",
@@ -3899,7 +4710,10 @@
         360,
         875,
         530
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "توليدو مشروم قطع ٤٠٠ جرام",
@@ -3913,7 +4727,10 @@
         580,
         260,
         735
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "توليدو كورند بيف ٣٤٠ جرام",
@@ -3927,7 +4744,10 @@
         580,
         595,
         735
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "الكمار تونه قطع ١٤٠ جرام",
@@ -3941,7 +4761,10 @@
         620,
         930,
         725
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "القاسم زيت زيتون ٥٠٠ مللى + زجاجه ١٢٥ مللى عرض",
@@ -3955,7 +4778,10 @@
         795,
         250,
         950
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "ستار خلطه كرسبى بارد-حار ۳۰۰ جرام ۲ق",
@@ -3969,7 +4795,10 @@
         800,
         630,
         955
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "توليدو ذره حلوه ٤٠٠ جرام",
@@ -3983,7 +4812,10 @@
         800,
         880,
         955
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "اردهان حلاوه طحينيه فستق ٥٠٠ جرام",
@@ -3997,7 +4829,10 @@
         205,
         315,
         300
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "فيتراك مربى فراوله - تين ٤٣٠ جم (كريمى - عادى)",
@@ -4011,7 +4846,10 @@
         160,
         635,
         325
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "توليدو خل ابيض ۱ لتر",
@@ -4025,7 +4863,10 @@
         160,
         830,
         310
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "القاسم عسل اسود نقى ٧٥٠ جرام ۱+۱",
@@ -4039,7 +4880,10 @@
         380,
         275,
         535
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "القاسم عسل نحل ٧٥٠ جرام ۱+۱ عرض",
@@ -4053,7 +4897,10 @@
         395,
         620,
         540
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "اردهان حلاوه شيكولاته ٥٠٠ جرام",
@@ -4067,7 +4914,10 @@
         420,
         915,
         535
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "كادبوري شيكولاته بندق ٤ + ۱ عرض ١٥٠ جرام",
@@ -4081,7 +4931,10 @@
         635,
         330,
         740
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "بشاير حليب كامل الدسم ۱ لتر",
@@ -4095,7 +4948,10 @@
         590,
         560,
         755
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "جهينه حليب كامل الدسم ۱,٥ لتر قطعه",
@@ -4109,7 +4965,10 @@
         585,
         860,
         755
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "لارش كيك ميلت كاكاو بصوص الشيكولاته علبه ٦ق",
@@ -4123,7 +4982,10 @@
         800,
         290,
         975
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "تام تام كيك مارشملو انواع علبة ١٢ق",
@@ -4137,7 +4999,10 @@
         805,
         615,
         975
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "اوريو ٦ قطعه + ۲ قطعه مجانا",
@@ -4151,7 +5016,10 @@
         895,
         930,
         945
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "زينه مناديل مطبخ رول تريو ٢ بكره",
@@ -4165,7 +5033,10 @@
         170,
         290,
         305
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "كلاسي ايكو باك ٥٥٠ منديل",
@@ -4179,7 +5050,10 @@
         220,
         615,
         305
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "زينه مناديل تريو ٥٠٠ منديل ۳ قطعه",
@@ -4193,7 +5067,10 @@
         175,
         935,
         310
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "فاين بيبي حفاضات دبل لوك مقاس ٥ ماكس ٧٦ حفاضه",
@@ -4207,7 +5084,10 @@
         380,
         275,
         525
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "فاين بيبي حفاضات دبل لوك مقاس ٣-٤ ٨٠ حفاضه",
@@ -4221,7 +5101,10 @@
         370,
         645,
         525
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "فاين مناديل تواليت كمفورت ٤+٢ بكره",
@@ -4235,7 +5118,10 @@
         395,
         925,
         525
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "تريزمى شامبو انواع ٤٠٠ + بلسم ٤٠٠ مل ٥٠٪ خصم على البلسم",
@@ -4249,7 +5135,10 @@
         615,
         335,
         740
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "سوفى فوط طويل جدا (عادى - مسك ) ١٤ فوطه ٢ قطعه",
@@ -4263,7 +5152,10 @@
         620,
         630,
         735
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "هايجاين مناديل مبلله كول ووتر ٣٥ م + ٥ هديه ۳ قطع عرض انواع",
@@ -4277,7 +5169,10 @@
         590,
         935,
         735
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "الو ايفا حمام كريم ٢٥٠ مللى باوتش انواع",
@@ -4291,7 +5186,10 @@
         795,
         330,
         960
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "دوف شامبو ٣٥٠ مللى خصم ١٥ ج انواع",
@@ -4305,7 +5203,10 @@
         805,
         595,
         960
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "صانسيلك شامبو ٦٠٠ مللى خصم ٢٠٪ انواع",
@@ -4319,7 +5220,10 @@
         805,
         915,
         960
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "بيور صابون سائل لليدين ٥٠٠ مللى انواع",
@@ -4333,7 +5237,10 @@
         185,
         335,
         305
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "فوج عطر بخاخ ۱۲۰ مللى انواع",
@@ -4347,7 +5254,10 @@
         155,
         605,
         305
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "اكس برفان جيب ۱۷ مللى انواع",
@@ -4361,7 +5271,10 @@
         185,
         930,
         305
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "سيجنال معجون ۱۲۰ مللى + ۲۰ مللى هديه",
@@ -4375,7 +5288,10 @@
         435,
         330,
         495
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "سيجنال فرش اسنان نظافه ثلاثيه ۲ + ۱ هديه",
@@ -4389,7 +5305,10 @@
         355,
         550,
         525
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "كامى شاور جل ۱ لتر وفر ۱۰ج انواع",
@@ -4403,7 +5322,10 @@
         365,
         925,
         520
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "دورو صابون ۱۱۰ جرام ٤ قطعه انواع",
@@ -4417,7 +5339,10 @@
         600,
         330,
         740
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "لوكس صابون ١٦٥ جرام ٤ قطع انواع",
@@ -4431,7 +5356,10 @@
         595,
         640,
         735
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "كلوز اب معجون ۱۰۰مل انواع + ۲٥ مل مجانا",
@@ -4445,7 +5373,10 @@
         600,
         945,
         735
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "مدار جل اتوماتيك ٢,٥ كجم + جل ۹۰۰ مللى هديه انواع",
@@ -4459,7 +5390,10 @@
         790,
         305,
         965
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "برسيل مسحوق اتوماتيك ت ٢.٥ كيلوانواع",
@@ -4473,7 +5407,10 @@
         795,
         580,
         965
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "اوكسى مسحوق اتوماتيك ٨ كيلو + ۱ كيلو انواع",
@@ -4487,7 +5424,10 @@
         790,
         885,
         965
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "بسيل صابون سائل ٤ لتر + ٥٠٠ مللى هديه انواع",
@@ -4501,7 +5441,10 @@
         140,
         310,
         310
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "باهى مسحوق يدوى ١ كيلو خصم 20% انواع",
@@ -4515,7 +5458,10 @@
         175,
         580,
         305
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "اريال مسحوق يدوي ٢ كيلو انواع",
@@ -4529,7 +5475,10 @@
         160,
         905,
         310
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "سيترس منظف متعدد الاغراض١ لتر انواع",
@@ -4543,7 +5492,10 @@
         365,
         305,
         525
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "نوفى معطر جو ٤٠٠ مللى انواع",
@@ -4557,7 +5509,10 @@
         360,
         605,
         520
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "بريل صابون سائل ليمون اخضر ٤ كيلو جرام",
@@ -4571,7 +5526,10 @@
         350,
         875,
         520
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "طقم قهوه ۱۲ قطعه TECHGROUP",
@@ -4585,7 +5543,10 @@
         565,
         280,
         735
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "تانك طقم شمع غيار برو ٦ وظائف",
@@ -4599,7 +5560,10 @@
         565,
         630,
         730
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "خصم 10% على جميع انواع السلالم",
@@ -4613,7 +5577,12 @@
         560,
         905,
         740
-      ]
+      ],
+      "quality_flags": [
+        "missing_or_invalid_price"
+      ],
+      "review_required": true,
+      "publishable": false
     },
     {
       "name_ar": "طقم صوانى استانلس ۳ قطع",
@@ -4627,7 +5596,10 @@
         840,
         345,
         955
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "العالميه ستاند منزلى متعدد الاستخدام ٤ دور",
@@ -4641,7 +5613,10 @@
         785,
         570,
         955
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "لمسه بلاست جردل كلينو بالمصفى الوان ١٦,٥ لتر م ١٤١٨",
@@ -4655,7 +5630,10 @@
         850,
         945,
         955
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "ميانتا-قطاعه بصل وثوم ٤٠٠ وات",
@@ -4669,7 +5647,10 @@
         200,
         335,
         310
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "ميديا تك هاند بلندر ۱۲۰۰ وات",
@@ -4683,7 +5664,10 @@
         140,
         540,
         320
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "فريش خلاط شبح ۱ مطحنه",
@@ -4697,7 +5681,10 @@
         140,
         930,
         310
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "الترا فرن ٤٨ لتر",
@@ -4711,7 +5698,10 @@
         405,
         335,
         520
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "ميديا تك مكواه بخار راسيه 26",
@@ -4725,7 +5715,10 @@
         355,
         560,
         535
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "توشيبا مكنسه كهربائيه بدون كيس ۱.۸ لتر ۲۰۰۰ وات",
@@ -4739,7 +5732,10 @@
         370,
         885,
         515
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "مايوه رجالى مشجر خاص / عادى",
@@ -4753,7 +5749,10 @@
         575,
         340,
         745
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "تي شيرت بوليفار اوفر سايز",
@@ -4767,7 +5766,10 @@
         575,
         645,
         745
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "تي شيرت بوليفار بييه لوفر سايز",
@@ -4781,7 +5783,10 @@
         575,
         935,
         745
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     },
     {
       "name_ar": "خصم 10% على قسم الداخلي الرجالي",
@@ -4795,7 +5800,12 @@
         795,
         335,
         965
-      ]
+      ],
+      "quality_flags": [
+        "missing_or_invalid_price"
+      ],
+      "review_required": true,
+      "publishable": false
     },
     {
       "name_ar": "خصم 10% على البنطلون الجينز",
@@ -4809,7 +5819,12 @@
         790,
         645,
         965
-      ]
+      ],
+      "quality_flags": [
+        "missing_or_invalid_price"
+      ],
+      "review_required": true,
+      "publishable": false
     },
     {
       "name_ar": "مايوه DMS فرعوني 3ق",
@@ -4823,7 +5838,10 @@
         790,
         935,
         965
-      ]
+      ],
+      "quality_flags": [],
+      "review_required": false,
+      "publishable": true
     }
   ]
 }
