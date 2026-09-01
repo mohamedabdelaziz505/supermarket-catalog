@@ -11,11 +11,11 @@
       "sha256": "2d58ad93500204e168d67da3b0b5ed8dbc8e1de4841425c52e1260f7405ead63",
       "ocr_status": "COMPLETED",
       "items": [
-        {"name_ar": "سابان ارز 5 كجم", "name_en": "Saban Rice 5 kg", "price": 119.95, "old_price": 139.50, "category": "Groceries > Rice", "tags": ["BIM"], "image_url": "https://drive.google.com/thumbnail?id=1lBpoiMlDYxBp5a6zXEAennJrWqyMlY0A&sz=w800"},
-        {"name_ar": "إفسانه ارز بسمتي 1 كجم", "name_en": "Efsane Basmati Rice 1 kg", "price": 64.95, "old_price": 74.95, "category": "Groceries > Rice", "tags": ["BIM"], "image_url": "https://drive.google.com/thumbnail?id=1P2MkgYmOMFr4aj4brh-tE-cVMwQOct8w&sz=w800"},
-        {"name_ar": "الباشا ارز بسمتي 1 كجم", "name_en": "El Basha Basmati Rice 1 kg", "price": 69.95, "old_price": 84.95, "category": "Groceries > Rice", "tags": ["BIM"], "image_url": "https://drive.google.com/thumbnail?id=1fk_OmkTgVnDOPZGZXieb00FpqYwvi9G3&sz=w800"},
-        {"name_ar": "الباشا ارز كامولينو 1 كجم", "name_en": "El Basha Camolino Rice 1 kg", "price": 24.95, "old_price": 28.95, "category": "Groceries > Rice", "tags": ["BIM"], "image_url": "https://drive.google.com/thumbnail?id=1e8vw0WBEuQlyuzIvjCjy7HoOsY3MIJDn&sz=w800"},
-        {"name_ar": "الدمياطي ارز عريض الحبة 1 كجم", "name_en": "El Domyaty Egyptian Rice 1 kg", "price": 33.95, "old_price": 39.95, "category": "Groceries > Rice", "tags": ["BIM"], "image_url": "https://drive.google.com/thumbnail?id=1GJ7QrD2y8FaLtAy4xYbe_NcyOy7WlwBI&sz=w800"}
+        {"name_ar": "سابان ارز 5 كجم", "name_en": "Saban Rice 5 kg", "price": 119.95, "old_price": 139.50, "category": "Rice", "tags": ["BIM", "Rice", "Groceries"], "image_url": "https://drive.google.com/thumbnail?id=1lBpoiMlDYxBp5a6zXEAennJrWqyMlY0A&sz=w800"},
+        {"name_ar": "إفسانه ارز بسمتي 1 كجم", "name_en": "Efsane Basmati Rice 1 kg", "price": 64.95, "old_price": 74.95, "category": "Rice", "tags": ["BIM", "Rice", "Groceries"], "image_url": "https://drive.google.com/thumbnail?id=1P2MkgYmOMFr4aj4brh-tE-cVMwQOct8w&sz=w800"},
+        {"name_ar": "الباشا ارز بسمتي 1 كجم", "name_en": "El Basha Basmati Rice 1 kg", "price": 69.95, "old_price": 84.95, "category": "Rice", "tags": ["BIM", "Rice", "Groceries"], "image_url": "https://drive.google.com/thumbnail?id=1fk_OmkTgVnDOPZGZXieb00FpqYwvi9G3&sz=w800"},
+        {"name_ar": "الباشا ارز كامولينو 1 كجم", "name_en": "El Basha Camolino Rice 1 kg", "price": 24.95, "old_price": 28.95, "category": "Rice", "tags": ["BIM", "Rice", "Groceries"], "image_url": "https://drive.google.com/thumbnail?id=1e8vw0WBEuQlyuzIvjCjy7HoOsY3MIJDn&sz=w800"},
+        {"name_ar": "الدمياطي ارز عريض الحبة 1 كجم", "name_en": "El Domyaty Egyptian Rice 1 kg", "price": 33.95, "old_price": 39.95, "category": "Rice", "tags": ["BIM", "Rice", "Groceries"], "image_url": "https://drive.google.com/thumbnail?id=1GJ7QrD2y8FaLtAy4xYbe_NcyOy7WlwBI&sz=w800"}
       ]
     },
     {
