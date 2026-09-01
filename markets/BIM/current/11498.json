@@ -154,32 +154,60 @@
       "local_path": "flyers/yabalash/11498-11-6d21319932.jpg",
       "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11498/11.jpg",
       "sha256": "3ddcbb385a97e891bf8555f055f442102125ec1ea6e2d0ceee19fdd00eeb5d1d",
-      "ocr_status": "PENDING",
-      "items": []
+      "ocr_status": "COMPLETED",
+      "items": [
+        {"name_ar": "آرت ماتيك مسحوق غسيل أوتوماتيك 8 كجم", "name_en": "Art Matic Automatic Washing Powder 8 kg", "price": 319.95, "old_price": 374.95, "category": "Cleaning", "tags": ["BIM", "Laundry", "Cleaning"]},
+        {"name_ar": "بيل ماتيك مسحوق غسيل أوتوماتيك 8 كجم", "name_en": "Bill Matic Automatic Washing Powder 8 kg", "price": 299.95, "old_price": 329.95, "category": "Cleaning", "tags": ["BIM", "Laundry", "Cleaning"]},
+        {"name_ar": "آرت ماتيك مسحوق غسيل يدوي 4 كجم", "name_en": "Art Matic Hand Washing Powder 4 kg", "price": 154.95, "old_price": 179.95, "category": "Cleaning", "tags": ["BIM", "Laundry", "Cleaning"]},
+        {"name_ar": "جودال كلور أبيض 900 مل", "name_en": "Joudal White Bleach 900 ml", "price": 18.95, "old_price": 19.95, "category": "Cleaning", "tags": ["BIM", "Bleach", "Cleaning"]},
+        {"name_ar": "كلوريل كلور أبيض 2 لتر", "name_en": "Clorel White Bleach 2 L", "price": 46.95, "old_price": 49.95, "category": "Cleaning", "tags": ["BIM", "Bleach", "Cleaning"]}
+      ]
     },
     {
       "file_id": "29a80134-db8d-4c29-a544-88aa25500ba5",
       "local_path": "flyers/yabalash/11498-12-086a46a7f5.jpg",
       "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11498/12.jpg",
       "sha256": "5b08a18714f352e20176425b5ad1eba462e59f9b24cf587a4a6acb4178e3fb5a",
-      "ocr_status": "PENDING",
-      "items": []
+      "ocr_status": "COMPLETED",
+      "items": [
+        {"name_ar": "بامبرز حفاضات أطفال مقاس 6 كيلوت 48 حفاضة", "name_en": "Pampers Baby Diapers Size 6, 48 Pieces", "price": 385.95, "old_price": 418.95, "category": "Groceries", "tags": ["BIM", "Baby Care", "Personal Care"]},
+        {"name_ar": "بامبرز حفاضات أطفال مقاس 5 كيلوت 58 حفاضة", "name_en": "Pampers Baby Pants Size 5, 58 Pieces", "price": 399.95, "old_price": 474.95, "category": "Groceries", "tags": ["BIM", "Baby Care", "Personal Care"]},
+        {"name_ar": "أولويز فوط نسائية عناية إضافية كبير 24 قطعة", "name_en": "Always Extra Care Maxi Pads 24 Pieces", "price": 79.95, "old_price": 84.95, "category": "Groceries", "tags": ["BIM", "Feminine Care", "Personal Care"]},
+        {"name_ar": "برايفت فوط نسائية ماكس باللآجنحة 24 قطعة", "name_en": "Private Maxi Winged Night Pads 24 Pieces", "price": 93.95, "old_price": 98.95, "category": "Groceries", "tags": ["BIM", "Feminine Care", "Personal Care"]},
+        {"name_ar": "بلوم مناديل وجه 500 منديل 3 قطع", "name_en": "Blume Facial Tissues 500 Tissues, 3 Packs", "price": 69.95, "old_price": 74.95, "category": "Groceries", "tags": ["BIM", "Tissues", "Household"]},
+        {"name_ar": "فاين برستيج مناديل وجه 600 منديل", "name_en": "Fine Prestige Facial Tissues 600 Tissues", "price": 156.95, "old_price": 182.95, "category": "Groceries", "tags": ["BIM", "Tissues", "Household"]}
+      ]
     },
     {
       "file_id": "900e4f00-8262-4ecd-8e9e-354a577f15f6",
       "local_path": "flyers/yabalash/11498-13-a97f8767f3.jpg",
       "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11498/13.jpg",
       "sha256": "c25fea56169cc0b54b7f23382684ed76ece82b1e546c1b069955ab8197e06f18",
-      "ocr_status": "PENDING",
-      "items": []
+      "ocr_status": "COMPLETED",
+      "items": [
+        {"name_ar": "ديستو منظف أطباق 4 لتر", "name_en": "Desto Dishwashing Liquid 4 L", "price": 99.95, "old_price": 109.95, "category": "Cleaning", "tags": ["BIM", "Dishwashing", "Cleaning"]},
+        {"name_ar": "أوكسى منظف أطباق 1 لتر", "name_en": "Oxi Dishwashing Liquid 1 L", "price": 35.95, "old_price": 39.95, "category": "Cleaning", "tags": ["BIM", "Dishwashing", "Cleaning"]},
+        {"name_ar": "بلوم رول مطبخ 500 جم", "name_en": "Blume Kitchen Roll 500 g", "price": 54.95, "old_price": 64.95, "category": "Groceries", "tags": ["BIM", "Kitchen Paper", "Household"]},
+        {"name_ar": "وايت مناديل مطبخ سحب 240 منديل", "name_en": "Waty Pull Kitchen Tissues 240 Tissues", "price": 29.95, "old_price": 34.95, "category": "Groceries", "tags": ["BIM", "Kitchen Paper", "Household"]},
+        {"name_ar": "بلوم مناديل تواليت بكرة مضغوطة 6 رول", "name_en": "Blume Compressed Toilet Rolls 6 Rolls", "price": 55.95, "old_price": 59.95, "category": "Groceries", "tags": ["BIM", "Toilet Paper", "Household"]}
+      ]
     },
     {
       "file_id": "5175c8fe-1ac8-41c8-a7c1-8552643fee85",
       "local_path": "flyers/yabalash/11498-14-151534e71b.jpg",
       "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11498/14.jpg",
       "sha256": "931827eae41896779fe81582428c4e889d599a99bb7e17282460c81276a7ee8b",
-      "ocr_status": "PENDING",
-      "items": []
+      "ocr_status": "COMPLETED",
+      "items": [
+        {"name_ar": "كمفورت فاميلي شراب رياضي رجالي 2 قطعة", "name_en": "Comfort Family Men's Sport Socks 2 Pairs", "price": 64.95, "old_price": 75.00, "category": "Groceries", "tags": ["BIM", "Clothing", "Men"]},
+        {"name_ar": "كمفورت فاميلي شراب رجالي كلاسيك 2 قطعة", "name_en": "Comfort Family Men's Classic Socks 2 Pairs", "price": 59.95, "old_price": 70.00, "category": "Groceries", "tags": ["BIM", "Clothing", "Men"]},
+        {"name_ar": "كمفورت فاميلي شراب ليكرا حريمي 2 قطعة", "name_en": "Comfort Family Women's Lycra Socks 2 Pairs", "price": 46.95, "old_price": 54.95, "category": "Groceries", "tags": ["BIM", "Clothing", "Women"]},
+        {"name_ar": "كمفورت فاميلي شراب أطفال 2 قطعة", "name_en": "Comfort Family Kids Socks 2 Pairs", "price": 39.95, "old_price": 49.95, "category": "Groceries", "tags": ["BIM", "Clothing", "Kids"]},
+        {"name_ar": "دابر المسواك معجون أسنان 140 مل", "name_en": "Dabur Miswak Toothpaste 140 ml", "price": 39.95, "old_price": 49.95, "category": "Groceries", "tags": ["BIM", "Oral Care", "Personal Care"]},
+        {"name_ar": "إيما فرشاة أسنان 2 قطعة", "name_en": "Ema Toothbrushes 2 Pieces", "price": 24.95, "old_price": 32.95, "category": "Groceries", "tags": ["BIM", "Oral Care", "Personal Care"]},
+        {"name_ar": "دوش صابون وجه 110 جم 4 قطع", "name_en": "Dosh Facial Soap 110 g, 4 Pieces", "price": 49.95, "old_price": 54.95, "category": "Groceries", "tags": ["BIM", "Bath", "Personal Care"]},
+        {"name_ar": "لايف بوي صابون وجه مضاد للبكتيريا 75 جم", "name_en": "Lifebuoy Antibacterial Soap 75 g", "price": 14.95, "old_price": 17.50, "category": "Groceries", "tags": ["BIM", "Bath", "Personal Care"]}
+      ]
     }
   ],
   "offers": []
