@@ -95,24 +95,44 @@
       "local_path": "flyers/yabalash/11498-7-48d516ec7f.jpg",
       "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11498/7.jpg",
       "sha256": "0295ca1fa93cb48be900d08ff667280941446be90201ace12515356e85084754",
-      "ocr_status": "PENDING",
-      "items": []
+      "ocr_status": "COMPLETED",
+      "items": [
+        {"name_ar": "تومبيك فرانكفورتر بقري 300 جم", "name_en": "Tombik Beef Frankfurter 300 g", "price": 44.95, "old_price": 54.95, "category": "Groceries", "tags": ["BIM", "Processed Meat", "Frozen Food"]},
+        {"name_ar": "تومبيك لانشون بقري/فراخ انواع 400 جم", "name_en": "Tombik Beef or Chicken Luncheon Assorted 400 g", "price": 43.00, "old_price": 53.00, "category": "Groceries", "tags": ["BIM", "Processed Meat", "Groceries"]},
+        {"name_ar": "سايلي كريمة شيكولاتة بالبندق 350 جم", "name_en": "Sayley Hazelnut Chocolate Spread 350 g", "price": 99.95, "old_price": 124.95, "category": "Groceries", "tags": ["BIM", "Chocolate", "Groceries"]},
+        {"name_ar": "فيتراك مربى انواع 430 جم", "name_en": "Vitrac Jam Assorted 430 g", "price": 39.95, "old_price": 48.00, "category": "Groceries", "tags": ["BIM", "Jam", "Groceries"]},
+        {"name_ar": "سيريل عسل أسود 800 جم", "name_en": "Serel Molasses 800 g", "price": 39.95, "old_price": 44.95, "category": "Groceries", "tags": ["BIM", "Molasses", "Groceries"]},
+        {"name_ar": "سيريل طحينة 500 جم", "name_en": "Serel Tahini 500 g", "price": 37.95, "old_price": 45.95, "category": "Groceries", "tags": ["BIM", "Tahini", "Groceries"]}
+      ]
     },
     {
       "file_id": "03825e0d-44d2-4f42-bfbc-14d02caf424b",
       "local_path": "flyers/yabalash/11498-8-b26ab1c9f3.jpg",
       "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11498/8.jpg",
       "sha256": "c80a62ecf41303f8a6202754037d475bd9c1fae8f8bdc179a14e886a6f7fbd3b",
-      "ocr_status": "PENDING",
-      "items": []
+      "ocr_status": "COMPLETED",
+      "items": [
+        {"name_ar": "إنشي زيتون أخضر طبيعي 1 كجم", "name_en": "Inci Natural Green Olives 1 kg", "price": 89.95, "old_price": 94.95, "category": "Groceries", "tags": ["BIM", "Pickles", "Groceries"]},
+        {"name_ar": "إنشي زيتون أسود طبيعي 1 كجم", "name_en": "Inci Natural Black Olives 1 kg", "price": 91.95, "old_price": 99.95, "category": "Groceries", "tags": ["BIM", "Pickles", "Groceries"]},
+        {"name_ar": "توكاك صلصة طماطم 830 جم", "name_en": "Tukas Tomato Paste 830 g", "price": 87.95, "old_price": 94.95, "category": "Groceries", "tags": ["BIM", "Canned Food", "Groceries"]},
+        {"name_ar": "توكاك ذرة حلوة 340 جم", "name_en": "Tukas Sweet Corn 340 g", "price": 65.95, "old_price": 79.95, "category": "Groceries", "tags": ["BIM", "Canned Food", "Groceries"]},
+        {"name_ar": "كوبيدو جلي فراولة عائلي 3 عبوات", "name_en": "Cupido Strawberry Jelly Family Pack 3 pieces", "price": 29.95, "old_price": 32.50, "category": "Groceries", "tags": ["BIM", "Desserts", "Groceries"]}
+      ]
     },
     {
       "file_id": "55843fb7-f8c6-43e8-bdff-b485daddd04a",
       "local_path": "flyers/yabalash/11498-9-c3c51380eb.jpg",
       "original_url": "https://www.mobappsbaker.com/catalogs/thwr/offers/11498/9.jpg",
       "sha256": "c25fca40be9eda9daeb7d3633f98204c03f51acb14fe22f3a3339d8f74e35aa6",
-      "ocr_status": "PENDING",
-      "items": []
+      "ocr_status": "COMPLETED",
+      "items": [
+        {"name_ar": "كوبيدو كوكيز بالشوكولاتة 215-225 جم", "name_en": "Cupido Chocolate Cookies 215-225 g", "price": 61.95, "old_price": 72.95, "category": "Groceries", "tags": ["BIM", "Biscuits", "Groceries"]},
+        {"name_ar": "كوبيدو منين بالسمسم 275-300 جم", "name_en": "Cupido Sesame Mini Cookies 275-300 g", "price": 45.95, "old_price": 52.95, "category": "Groceries", "tags": ["BIM", "Biscuits", "Groceries"]},
+        {"name_ar": "كوبيدو منين سادة 250 جم", "name_en": "Cupido Plain Mini Cookies 250 g", "price": 41.95, "old_price": 47.95, "category": "Groceries", "tags": ["BIM", "Biscuits", "Groceries"]},
+        {"name_ar": "أبو عوف بن محوج فاتح 100 جم", "name_en": "Abu Auf Light Turkish Coffee 100 g", "price": 107.95, "old_price": 154.95, "category": "Groceries", "tags": ["BIM", "Coffee", "Groceries"]},
+        {"name_ar": "أبو عوف بن سادة فاتح 100 جم", "name_en": "Abu Auf Plain Turkish Coffee 100 g", "price": 79.95, "old_price": 105.95, "category": "Groceries", "tags": ["BIM", "Coffee", "Groceries"]},
+        {"name_ar": "ليبتون شاي أسود خرز 25 كيس", "name_en": "Lipton Black Tea 25 Bags", "price": 69.95, "old_price": 81.95, "category": "Beverages", "tags": ["BIM", "Tea", "Beverages"]}
+      ]
     },
     {
       "file_id": "348e7a9f-d942-474f-89f8-1908cc191047",
