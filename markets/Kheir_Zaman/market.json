@@ -1,0 +1,28 @@
+{
+  "market": {
+    "id": "7ec1203a-5390-4ac2-bc29-f75b7560e899",
+    "code": "yabalash-9c0c29aa6867",
+    "name_ar": "Kheir Zaman",
+    "name_en": "Kheir Zaman",
+    "tags": []
+  },
+  "current": "current/current.json",
+  "history": [
+    {
+      "flyer_id": "11172",
+      "file": "history/2026-08-01/11172/flyer.json",
+      "valid_to": "2026-08-15"
+    },
+    {
+      "flyer_id": "11147",
+      "file": "history/2026-08-01/11147/flyer.json",
+      "valid_to": "2026-08-01"
+    },
+    {
+      "flyer_id": "11472",
+      "file": "history/2026-08-27/11472/flyer.json",
+      "valid_to": "2026-08-29"
+    }
+  ],
+  "history_offers": []
+}

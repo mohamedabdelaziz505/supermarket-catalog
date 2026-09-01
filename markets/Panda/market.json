@@ -1,0 +1,28 @@
+{
+  "market": {
+    "id": "5cbfc377-9797-44f9-94b2-30e528f537d6",
+    "code": "yabalash-14c431303b48",
+    "name_ar": "Panda",
+    "name_en": "Panda",
+    "tags": []
+  },
+  "current": "current/current.json",
+  "history": [
+    {
+      "flyer_id": "11116",
+      "file": "history/2026-08-01/11116/flyer.json",
+      "valid_to": "2026-08-08"
+    },
+    {
+      "flyer_id": "11140",
+      "file": "history/2026-08-01/11140/flyer.json",
+      "valid_to": "2026-08-01"
+    },
+    {
+      "flyer_id": "11468",
+      "file": "history/2026-08-27/11468/flyer.json",
+      "valid_to": "2026-08-31"
+    }
+  ],
+  "history_offers": []
+}

@@ -1,0 +1,28 @@
+{
+  "market": {
+    "id": "7fa08703-9c3e-4b50-8143-bd7e42b88d09",
+    "code": "yabalash-0c809fb9d4b6",
+    "name_ar": "Hyper One",
+    "name_en": "Hyper One",
+    "tags": []
+  },
+  "current": "current/current.json",
+  "history": [
+    {
+      "flyer_id": "11132",
+      "file": "history/2026-08-01/11132/flyer.json",
+      "valid_to": "2026-08-05"
+    },
+    {
+      "flyer_id": "11131",
+      "file": "history/2026-08-01/11131/flyer.json",
+      "valid_to": "2026-08-05"
+    },
+    {
+      "flyer_id": "11090",
+      "file": "history/2026-08-01/11090/flyer.json",
+      "valid_to": "2026-08-05"
+    }
+  ],
+  "history_offers": []
+}

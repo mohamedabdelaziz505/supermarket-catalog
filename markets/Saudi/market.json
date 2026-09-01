@@ -1,0 +1,18 @@
+{
+  "market": {
+    "id": "f3d94d7d-6138-445b-83b0-b651e0c21030",
+    "code": "yabalash-89b2062b2ca8",
+    "name_ar": "Saudi",
+    "name_en": "Saudi",
+    "tags": []
+  },
+  "current": "current/current.json",
+  "history": [
+    {
+      "flyer_id": "11097",
+      "file": "history/2026-08-01/11097/flyer.json",
+      "valid_to": "2026-08-05"
+    }
+  ],
+  "history_offers": []
+}

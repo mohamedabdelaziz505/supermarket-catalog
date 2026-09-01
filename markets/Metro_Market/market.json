@@ -1,0 +1,28 @@
+{
+  "market": {
+    "id": "bf14a1bd-f375-4bd8-81ef-bed61238b927",
+    "code": "yabalash-b59dcc37cb9e",
+    "name_ar": "Metro Market",
+    "name_en": "Metro Market",
+    "tags": []
+  },
+  "current": "current/current.json",
+  "history": [
+    {
+      "flyer_id": "11173",
+      "file": "history/2026-08-01/11173/flyer.json",
+      "valid_to": "2026-08-15"
+    },
+    {
+      "flyer_id": "11164",
+      "file": "history/2026-08-01/11164/flyer.json",
+      "valid_to": "2026-08-01"
+    },
+    {
+      "flyer_id": "11474",
+      "file": "history/2026-08-27/11474/flyer.json",
+      "valid_to": "2026-08-29"
+    }
+  ],
+  "history_offers": []
+}

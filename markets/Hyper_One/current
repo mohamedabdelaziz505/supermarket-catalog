@@ -1,0 +1,18 @@
+{
+  "market": {
+    "id": "7fa08703-9c3e-4b50-8143-bd7e42b88d09",
+    "code": "yabalash-0c809fb9d4b6",
+    "name_ar": "Hyper One",
+    "name_en": "Hyper One",
+    "tags": []
+  },
+  "generated_at": "2026-09-01",
+  "flyers": [
+    {
+      "flyer_id": "11471",
+      "file": "current/11471.json",
+      "valid_to": "2026-09-05"
+    }
+  ],
+  "offers": []
+}

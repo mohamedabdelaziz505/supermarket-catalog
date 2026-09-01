@@ -1,0 +1,45 @@
+{
+  "market": {
+    "id": "0c209bdf-5771-4404-9c91-b2b08e119724",
+    "code": "yabalash-c96bdc4f9b45",
+    "name_ar": "Sobikou",
+    "name_en": "Sobikou",
+    "tags": [
+      "Branch: Senger, Omraneya & El Naameya"
+    ]
+  },
+  "current": "current/current.json",
+  "history": [
+    {
+      "flyer_id": "11158",
+      "file": "history/2026-08-01/11158/flyer.json",
+      "valid_to": "2026-08-15"
+    },
+    {
+      "flyer_id": "11149",
+      "file": "history/2026-08-01/11149/flyer.json",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "flyer_id": "11148",
+      "file": "history/2026-08-01/11148/flyer.json",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "flyer_id": "11476",
+      "file": "history/2026-08-27/11476/flyer.json",
+      "valid_to": "2026-08-29"
+    },
+    {
+      "flyer_id": "11475",
+      "file": "history/2026-08-27/11475/flyer.json",
+      "valid_to": "2026-08-30"
+    },
+    {
+      "flyer_id": "11157",
+      "file": "history/2026-08-01/11157/flyer.json",
+      "valid_to": "2026-08-15"
+    }
+  ],
+  "history_offers": []
+}

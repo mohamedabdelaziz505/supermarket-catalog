@@ -1,239 +1,181 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "generated_at": "2026-09-01",
+  "source": "SQLite + Yabalash flyer importer",
   "markets": [
     {
-      "name": "الراية",
-      "path": "markets/الراية/current/current.json",
-      "image": "markets/الراية/market.jpg"
+      "name": "Al Raya",
+      "path": "markets/Al_Raya/current/current.json",
+      "tags": [],
+      "current_flyers": 0
     },
     {
-      "name": "الرايه_ماركت",
-      "path": "markets/الرايه_ماركت/current/current.json",
-      "image": "markets/الرايه_ماركت/market.jpg"
+      "name": "Al Othaim",
+      "path": "markets/Al_Othaim/current/current.json",
+      "tags": [
+        "Branch: Sudan St, Mohandessin"
+      ],
+      "current_flyers": 0
     },
     {
-      "name": "العثيم",
-      "path": "markets/العثيم/current/current.json",
-      "image": "markets/العثيم/market.jpg"
+      "name": "El Fergany",
+      "path": "markets/El_Fergany/current/current.json",
+      "tags": [],
+      "current_flyers": 0
     },
     {
-      "name": "العثيم_-_شارع_السودان_المهندسين",
-      "path": "markets/العثيم_-_شارع_السودان_المهندسين/current/current.json",
-      "image": "markets/العثيم_-_شارع_السودان_المهندسين/market.jpg"
+      "name": "El Mahlawy",
+      "path": "markets/El_Mahlawy/current/current.json",
+      "tags": [
+        "Branch: Mart Ville"
+      ],
+      "current_flyers": 1
     },
     {
-      "name": "الفرجانى",
-      "path": "markets/الفرجانى/current/current.json",
-      "image": "markets/الفرجانى/market.jpg"
+      "name": "Oscar",
+      "path": "markets/Oscar/current/current.json",
+      "tags": [],
+      "current_flyers": 0
     },
     {
-      "name": "المحلاوي",
-      "path": "markets/المحلاوي/current/current.json",
-      "image": "markets/المحلاوي/market.jpg"
+      "name": "Awlad Ragab",
+      "path": "markets/Awlad_Ragab/current/current.json",
+      "tags": [],
+      "current_flyers": 0
     },
     {
-      "name": "اوسكار",
-      "path": "markets/اوسكار/current/current.json",
-      "image": "markets/اوسكار/market.jpg"
+      "name": "Panda",
+      "path": "markets/Panda/current/current.json",
+      "tags": [],
+      "current_flyers": 0
     },
     {
-      "name": "اولاد_المحلاوي",
-      "path": "markets/اولاد_المحلاوي/current/current.json",
-      "image": "markets/اولاد_المحلاوي/market.jpg"
+      "name": "Gomla House",
+      "path": "markets/Gomla_House/current/current.json",
+      "tags": [],
+      "current_flyers": 0
     },
     {
-      "name": "اولاد_رجب",
-      "path": "markets/اولاد_رجب/current/current.json",
-      "image": "markets/اولاد_رجب/market.jpg"
+      "name": "BIM",
+      "path": "markets/BIM/current/current.json",
+      "tags": [],
+      "current_flyers": 1
     },
     {
-      "name": "بنده",
-      "path": "markets/بنده/current/current.json",
-      "image": "markets/بنده/market.jpg"
+      "name": "Gomla Market",
+      "path": "markets/Gomla_Market/current/current.json",
+      "tags": [
+        "Branch: Maadi"
+      ],
+      "current_flyers": 0
     },
     {
-      "name": "بيت_الجمله",
-      "path": "markets/بيت_الجمله/current/current.json",
-      "image": "markets/بيت_الجمله/market.jpg"
+      "name": "Kheir Zaman",
+      "path": "markets/Kheir_Zaman/current/current.json",
+      "tags": [],
+      "current_flyers": 1
     },
     {
-      "name": "بيم",
-      "path": "markets/بيم/current/current.json",
-      "image": "markets/بيم/market.jpg"
+      "name": "Royal House",
+      "path": "markets/Royal_House/current/current.json",
+      "tags": [],
+      "current_flyers": 0
     },
     {
-      "name": "بيم_ماركت",
-      "path": "markets/بيم_ماركت/current/current.json",
-      "image": "markets/بيم_ماركت/market.jpg"
+      "name": "Zaher Market",
+      "path": "markets/Zaher_Market/current/current.json",
+      "tags": [],
+      "current_flyers": 0
     },
     {
-      "name": "جمله_ماركت",
-      "path": "markets/جمله_ماركت/current/current.json",
-      "image": "markets/جمله_ماركت/market.jpg"
+      "name": "Zahran Market",
+      "path": "markets/Zahran_Market/current/current.json",
+      "tags": [],
+      "current_flyers": 0
     },
     {
-      "name": "جمله_ماركت_-_المعادي",
-      "path": "markets/جمله_ماركت_-_المعادي/current/current.json",
-      "image": "markets/جمله_ماركت_-_المعادي/market.jpg"
+      "name": "Spinneys",
+      "path": "markets/Spinneys/current/current.json",
+      "tags": [
+        "Branch: Extra - Mall of Arabia & Tanta Mall"
+      ],
+      "current_flyers": 1
     },
     {
-      "name": "خير_زمان",
-      "path": "markets/خير_زمان/current/current.json",
-      "image": "markets/خير_زمان/market.jpg"
+      "name": "Saray Market",
+      "path": "markets/Saray_Market/current/current.json",
+      "tags": [],
+      "current_flyers": 0
     },
     {
-      "name": "رويال_هاوس",
-      "path": "markets/رويال_هاوس/current/current.json",
-      "image": "markets/رويال_هاوس/market.jpg"
+      "name": "Saudi",
+      "path": "markets/Saudi/current/current.json",
+      "tags": [],
+      "current_flyers": 0
     },
     {
-      "name": "زاهر_ماركت",
-      "path": "markets/زاهر_ماركت/current/current.json",
-      "image": "markets/زاهر_ماركت/market.jpg"
+      "name": "Sobikou",
+      "path": "markets/Sobikou/current/current.json",
+      "tags": [
+        "Branch: Senger, Omraneya & El Naameya"
+      ],
+      "current_flyers": 0
     },
     {
-      "name": "زهران_ماركت",
-      "path": "markets/زهران_ماركت/current/current.json",
-      "image": "markets/زهران_ماركت/market.jpg"
+      "name": "Arafa Market",
+      "path": "markets/Arafa_Market/current/current.json",
+      "tags": [],
+      "current_flyers": 0
     },
     {
-      "name": "سبينيس",
-      "path": "markets/سبينيس/current/current.json",
-      "image": "markets/سبينيس/market.jpg"
+      "name": "Fathalla",
+      "path": "markets/Fathalla/current/current.json",
+      "tags": [],
+      "current_flyers": 0
     },
     {
-      "name": "سبينيس_اكسترا_-_مول_العرب_&_مول_طنطا",
-      "path": "markets/سبينيس_اكسترا_-_مول_العرب_&_مول_طنطا/current/current.json",
-      "image": "markets/سبينيس_اكسترا_-_مول_العرب_&_مول_طنطا/market.jpg"
+      "name": "Carrefour",
+      "path": "markets/Carrefour/current/current.json",
+      "tags": [
+        "Branch: Barmilan"
+      ],
+      "current_flyers": 0
     },
     {
-      "name": "سراي_ماركت",
-      "path": "markets/سراي_ماركت/current/current.json",
-      "image": "markets/سراي_ماركت/market.jpg"
+      "name": "Kazyon",
+      "path": "markets/Kazyon/current/current.json",
+      "tags": [],
+      "current_flyers": 1
     },
     {
-      "name": "سعودى",
-      "path": "markets/سعودى/current/current.json",
-      "image": "markets/سعودى/market.jpg"
+      "name": "Lulu",
+      "path": "markets/Lulu/current/current.json",
+      "tags": [],
+      "current_flyers": 1
     },
     {
-      "name": "سوبيكو",
-      "path": "markets/سوبيكو/current/current.json",
-      "image": "markets/سوبيكو/market.jpg"
+      "name": "Metro Market",
+      "path": "markets/Metro_Market/current/current.json",
+      "tags": [],
+      "current_flyers": 0
     },
     {
-      "name": "سوبيكوسنجر_&_العمرانية_&_النعام",
-      "path": "markets/سوبيكوسنجر_&_العمرانية_&_النعام/current/current.json",
-      "image": "markets/سوبيكوسنجر_&_العمرانية_&_النعام/market.jpg"
+      "name": "Mahmoud El Far",
+      "path": "markets/Mahmoud_El_Far/current/current.json",
+      "tags": [],
+      "current_flyers": 0
     },
     {
-      "name": "عرفة_ماركت",
-      "path": "markets/عرفة_ماركت/current/current.json",
-      "image": "markets/عرفة_ماركت/market.jpg"
+      "name": "Hyper Mousi",
+      "path": "markets/Hyper_Mousi/current/current.json",
+      "tags": [],
+      "current_flyers": 1
     },
     {
-      "name": "فتح_الله",
-      "path": "markets/فتح_الله/current/current.json",
-      "image": "markets/فتح_الله/market.jpg"
-    },
-    {
-      "name": "فتح_الله_ماركت",
-      "path": "markets/فتح_الله_ماركت/current/current.json",
-      "image": "markets/فتح_الله_ماركت/market.jpg"
-    },
-    {
-      "name": "كارفور",
-      "path": "markets/كارفور/current/current.json",
-      "image": "markets/كارفور/market.jpg"
-    },
-    {
-      "name": "كارفور-_برميلان",
-      "path": "markets/كارفور-_برميلان/current/current.json",
-      "image": "markets/كارفور-_برميلان/market.jpg"
-    },
-    {
-      "name": "كازيون",
-      "path": "markets/كازيون/current/current.json",
-      "image": "markets/كازيون/market.jpg"
-    },
-    {
-      "name": "لولو",
-      "path": "markets/لولو/current/current.json",
-      "image": "markets/لولو/market.jpg"
-    },
-    {
-      "name": "مارت_فيل_&_المحلاوي",
-      "path": "markets/مارت_فيل_&_المحلاوي/current/current.json",
-      "image": "markets/مارت_فيل_&_المحلاوي/market.jpg"
-    },
-    {
-      "name": "مترو_ماركت",
-      "path": "markets/مترو_ماركت/current/current.json",
-      "image": "markets/مترو_ماركت/market.jpg"
-    },
-    {
-      "name": "محمود_الفار",
-      "path": "markets/محمود_الفار/current/current.json",
-      "image": "markets/محمود_الفار/market.jpg"
-    },
-    {
-      "name": "هايبر_موسي",
-      "path": "markets/هايبر_موسي/current/current.json",
-      "image": "markets/هايبر_موسي/market.jpg"
-    },
-    {
-      "name": "هايبر_وان",
-      "path": "markets/هايبر_وان/current/current.json",
-      "image": "markets/هايبر_وان/market.jpg"
+      "name": "Hyper One",
+      "path": "markets/Hyper_One/current/current.json",
+      "tags": [],
+      "current_flyers": 1
     }
-  ],
-  "files": [
-    "markets/الراية/current/current.json",
-    "markets/الرايه_ماركت/current/current.json",
-    "markets/العثيم/current/current.json",
-    "markets/العثيم_-_شارع_السودان_المهندسين/current/current.json",
-    "markets/الفرجانى/current/current.json",
-    "markets/المحلاوي/current/current.json",
-    "markets/اوسكار/current/current.json",
-    "markets/اولاد_المحلاوي/current/current.json",
-    "markets/اولاد_رجب/current/current.json",
-    "markets/بنده/current/current.json",
-    "markets/بيت_الجمله/current/current.json",
-    "markets/بيم/current/current.json",
-    "markets/بيم_ماركت/current/11490.json",
-    "markets/بيم_ماركت/current/current.json",
-    "markets/جمله_ماركت/current/current.json",
-    "markets/جمله_ماركت_-_المعادي/current/current.json",
-    "markets/خير_زمان/current/11503.json",
-    "markets/خير_زمان/current/current.json",
-    "markets/خير_زمان/current/visual_batch_11503_001.json",
-    "markets/رويال_هاوس/current/current.json",
-    "markets/زاهر_ماركت/current/current.json",
-    "markets/زهران_ماركت/current/current.json",
-    "markets/سبينيس/current/current.json",
-    "markets/سبينيس_اكسترا_-_مول_العرب_&_مول_طنطا/current/11477.json",
-    "markets/سبينيس_اكسترا_-_مول_العرب_&_مول_طنطا/current/current.json",
-    "markets/سراي_ماركت/current/current.json",
-    "markets/سعودى/current/current.json",
-    "markets/سوبيكو/current/current.json",
-    "markets/سوبيكوسنجر_&_العمرانية_&_النعام/current/current.json",
-    "markets/عرفة_ماركت/current/current.json",
-    "markets/فتح_الله/current/current.json",
-    "markets/فتح_الله_ماركت/current/current.json",
-    "markets/كارفور/current/current.json",
-    "markets/كارفور-_برميلان/current/current.json",
-    "markets/كازيون/current/11489.json",
-    "markets/كازيون/current/current.json",
-    "markets/لولو/current/11470.json",
-    "markets/لولو/current/current.json",
-    "markets/مارت_فيل_&_المحلاوي/current/11466.json",
-    "markets/مارت_فيل_&_المحلاوي/current/current.json",
-    "markets/مترو_ماركت/current/current.json",
-    "markets/محمود_الفار/current/current.json",
-    "markets/هايبر_موسي/current/11165.json",
-    "markets/هايبر_موسي/current/current.json",
-    "markets/هايبر_وان/current/11471.json",
-    "markets/هايبر_وان/current/current.json"
   ]
 }

@@ -1,0 +1,28 @@
+{
+  "market": {
+    "id": "9d105673-5cef-45e2-a9c0-a383ceaa2250",
+    "code": "yabalash-bb4ef9c2b789",
+    "name_ar": "Oscar",
+    "name_en": "Oscar",
+    "tags": []
+  },
+  "current": "current/current.json",
+  "history": [
+    {
+      "flyer_id": "11160",
+      "file": "history/2026-08-01/11160/flyer.json",
+      "valid_to": "2026-08-08"
+    },
+    {
+      "flyer_id": "11159",
+      "file": "history/2026-08-01/11159/flyer.json",
+      "valid_to": "2026-08-01"
+    },
+    {
+      "flyer_id": "11479",
+      "file": "history/2026-08-27/11479/flyer.json",
+      "valid_to": "2026-08-29"
+    }
+  ],
+  "history_offers": []
+}

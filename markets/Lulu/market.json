@@ -1,0 +1,23 @@
+{
+  "market": {
+    "id": "e7e4152a-867e-4028-968d-c7bc1bad8515",
+    "code": "yabalash-1efee303c7db",
+    "name_ar": "Lulu",
+    "name_en": "Lulu",
+    "tags": []
+  },
+  "current": "current/current.json",
+  "history": [
+    {
+      "flyer_id": "11096",
+      "file": "history/2026-08-01/11096/flyer.json",
+      "valid_to": "2026-08-05"
+    },
+    {
+      "flyer_id": "11095",
+      "file": "history/2026-08-01/11095/flyer.json",
+      "valid_to": "2026-08-05"
+    }
+  ],
+  "history_offers": []
+}

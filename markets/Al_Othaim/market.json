@@ -1,0 +1,30 @@
+{
+  "market": {
+    "id": "753af5ad-4d26-430b-8fbf-6f8b76e0bfbf",
+    "code": "yabalash-1d8f39619edc",
+    "name_ar": "Al Othaim",
+    "name_en": "Al Othaim",
+    "tags": [
+      "Branch: Sudan St, Mohandessin"
+    ]
+  },
+  "current": "current/current.json",
+  "history": [
+    {
+      "flyer_id": "11053",
+      "file": "history/2026-08-01/11053/flyer.json",
+      "valid_to": "2026-08-04"
+    },
+    {
+      "flyer_id": "11478",
+      "file": "history/2026-08-27/11478/flyer.json",
+      "valid_to": "2026-08-29"
+    },
+    {
+      "flyer_id": "11153",
+      "file": "history/2026-08-01/11153/flyer.json",
+      "valid_to": "2026-08-01"
+    }
+  ],
+  "history_offers": []
+}

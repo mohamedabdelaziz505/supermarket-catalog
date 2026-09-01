@@ -1,0 +1,18 @@
+{
+  "market": {
+    "id": "0d8305e0-0ac6-4365-9bd6-b586f1f5a506",
+    "code": "yabalash-d3826431c885",
+    "name_ar": "Zaher Market",
+    "name_en": "Zaher Market",
+    "tags": []
+  },
+  "current": "current/current.json",
+  "history": [
+    {
+      "flyer_id": "11089",
+      "file": "history/2026-08-01/11089/flyer.json",
+      "valid_to": "2026-08-10"
+    }
+  ],
+  "history_offers": []
+}

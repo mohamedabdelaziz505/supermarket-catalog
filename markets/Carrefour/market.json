@@ -1,0 +1,65 @@
+{
+  "market": {
+    "id": "6b8c4b4d-e30d-4d1d-b911-995d9087315c",
+    "code": "yabalash-0c2cf851749c",
+    "name_ar": "Carrefour",
+    "name_en": "Carrefour",
+    "tags": [
+      "Branch: Barmilan"
+    ]
+  },
+  "current": "current/current.json",
+  "history": [
+    {
+      "flyer_id": "11151",
+      "file": "history/2026-08-01/11151/flyer.json",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "flyer_id": "11150",
+      "file": "history/2026-08-01/11150/flyer.json",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "flyer_id": "11138",
+      "file": "history/2026-08-01/11138/flyer.json",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "flyer_id": "11137",
+      "file": "history/2026-08-01/11137/flyer.json",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "flyer_id": "11125",
+      "file": "history/2026-08-01/11125/flyer.json",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "flyer_id": "11118",
+      "file": "history/2026-08-01/11118/flyer.json",
+      "valid_to": "2026-08-10"
+    },
+    {
+      "flyer_id": "11465",
+      "file": "history/2026-08-27/11465/flyer.json",
+      "valid_to": "2026-08-30"
+    },
+    {
+      "flyer_id": "11463",
+      "file": "history/2026-08-27/11463/flyer.json",
+      "valid_to": "2026-08-30"
+    },
+    {
+      "flyer_id": "11152",
+      "file": "history/2026-08-01/11152/flyer.json",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "flyer_id": "11464",
+      "file": "history/2026-08-27/11464/flyer.json",
+      "valid_to": "2026-08-30"
+    }
+  ],
+  "history_offers": []
+}

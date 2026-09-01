@@ -1,0 +1,58 @@
+{
+  "market": {
+    "id": "44764502-8a98-4065-b03e-6ebd79cd91db",
+    "code": "yabalash-ae3c49a83c5c",
+    "name_ar": "Kazyon",
+    "name_en": "Kazyon",
+    "tags": []
+  },
+  "current": "current/current.json",
+  "history": [
+    {
+      "flyer_id": "11168",
+      "file": "history/2026-08-01/11168/flyer.json",
+      "valid_to": "2026-08-03"
+    },
+    {
+      "flyer_id": "11169",
+      "file": "history/2026-08-01/11169/flyer.json",
+      "valid_to": "2026-08-01"
+    },
+    {
+      "flyer_id": "11154",
+      "file": "history/2026-08-01/11154/flyer.json",
+      "valid_to": "2026-08-03"
+    },
+    {
+      "flyer_id": "11134",
+      "file": "history/2026-08-01/11134/flyer.json",
+      "valid_to": "2026-08-03"
+    },
+    {
+      "flyer_id": "11106",
+      "file": "history/2026-08-01/11106/flyer.json",
+      "valid_to": "2026-08-03"
+    },
+    {
+      "flyer_id": "11105",
+      "file": "history/2026-08-01/11105/flyer.json",
+      "valid_to": "2026-08-03"
+    },
+    {
+      "flyer_id": "11461",
+      "file": "history/2026-08-27/11461/flyer.json",
+      "valid_to": "2026-08-31"
+    },
+    {
+      "flyer_id": "11481",
+      "file": "history/2026-08-27/11481/flyer.json",
+      "valid_to": "2026-08-28"
+    },
+    {
+      "flyer_id": "11462",
+      "file": "history/2026-08-27/11462/flyer.json",
+      "valid_to": "2026-08-29"
+    }
+  ],
+  "history_offers": []
+}

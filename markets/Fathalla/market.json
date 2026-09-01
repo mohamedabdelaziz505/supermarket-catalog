@@ -1,0 +1,38 @@
+{
+  "market": {
+    "id": "7f29b413-241c-45c0-a2fe-f9e197a50d5f",
+    "code": "yabalash-ebe2baedba63",
+    "name_ar": "Fathalla",
+    "name_en": "Fathalla",
+    "tags": []
+  },
+  "current": "current/current.json",
+  "history": [
+    {
+      "flyer_id": "11171",
+      "file": "history/2026-08-01/11171/flyer.json",
+      "valid_to": "2026-08-21"
+    },
+    {
+      "flyer_id": "11143",
+      "file": "history/2026-08-01/11143/flyer.json",
+      "valid_to": "2026-08-01"
+    },
+    {
+      "flyer_id": "11036",
+      "file": "history/2026-08-01/11036/flyer.json",
+      "valid_to": "2026-08-10"
+    },
+    {
+      "flyer_id": "10997",
+      "file": "history/2026-08-01/10997/flyer.json",
+      "valid_to": "2026-08-20"
+    },
+    {
+      "flyer_id": "11469",
+      "file": "history/2026-08-27/11469/flyer.json",
+      "valid_to": "2026-08-29"
+    }
+  ],
+  "history_offers": []
+}

@@ -1,0 +1,103 @@
+{
+  "market": {
+    "id": "e81375e3-8b0e-4cc2-a991-145b28f84ab6",
+    "code": "yabalash-a32dadbfb580",
+    "name_ar": "BIM",
+    "name_en": "BIM",
+    "tags": []
+  },
+  "current": "current/current.json",
+  "history": [
+    {
+      "flyer_id": "11156",
+      "file": "history/2026-08-01/11156/flyer.json",
+      "valid_to": "2026-08-01"
+    },
+    {
+      "flyer_id": "11170",
+      "file": "history/2026-08-01/11170/flyer.json",
+      "valid_to": "2026-08-01"
+    },
+    {
+      "flyer_id": "11162",
+      "file": "history/2026-08-01/11162/flyer.json",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "flyer_id": "11146",
+      "file": "history/2026-08-01/11146/flyer.json",
+      "valid_to": "2026-08-01"
+    },
+    {
+      "flyer_id": "11145",
+      "file": "history/2026-08-01/11145/flyer.json",
+      "valid_to": "2026-08-01"
+    },
+    {
+      "flyer_id": "11139",
+      "file": "history/2026-08-01/11139/flyer.json",
+      "valid_to": "2026-08-01"
+    },
+    {
+      "flyer_id": "11136",
+      "file": "history/2026-08-01/11136/flyer.json",
+      "valid_to": "2026-08-01"
+    },
+    {
+      "flyer_id": "11129",
+      "file": "history/2026-08-01/11129/flyer.json",
+      "valid_to": "2026-08-01"
+    },
+    {
+      "flyer_id": "11122",
+      "file": "history/2026-08-01/11122/flyer.json",
+      "valid_to": "2026-08-02"
+    },
+    {
+      "flyer_id": "11120",
+      "file": "history/2026-08-01/11120/flyer.json",
+      "valid_to": "2026-08-01"
+    },
+    {
+      "flyer_id": "11119",
+      "file": "history/2026-08-01/11119/flyer.json",
+      "valid_to": "2026-08-05"
+    },
+    {
+      "flyer_id": "11111",
+      "file": "history/2026-08-01/11111/flyer.json",
+      "valid_to": "2026-08-03"
+    },
+    {
+      "flyer_id": "11099",
+      "file": "history/2026-08-01/11099/flyer.json",
+      "valid_to": "2026-08-03"
+    },
+    {
+      "flyer_id": "11060",
+      "file": "history/2026-08-01/11060/flyer.json",
+      "valid_to": "2026-08-08"
+    },
+    {
+      "flyer_id": "11482",
+      "file": "history/2026-08-27/11482/flyer.json",
+      "valid_to": "2026-08-28"
+    },
+    {
+      "flyer_id": "11459",
+      "file": "history/2026-08-27/11459/flyer.json",
+      "valid_to": "2026-08-30"
+    },
+    {
+      "flyer_id": "11458",
+      "file": "history/2026-08-27/11458/flyer.json",
+      "valid_to": "2026-08-29"
+    },
+    {
+      "flyer_id": "11457",
+      "file": "history/2026-08-27/11457/flyer.json",
+      "valid_to": "2026-08-30"
+    }
+  ],
+  "history_offers": []
+}

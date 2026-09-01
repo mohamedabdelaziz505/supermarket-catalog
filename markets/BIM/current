@@ -1,0 +1,18 @@
+{
+  "market": {
+    "id": "e81375e3-8b0e-4cc2-a991-145b28f84ab6",
+    "code": "yabalash-a32dadbfb580",
+    "name_ar": "BIM",
+    "name_en": "BIM",
+    "tags": []
+  },
+  "generated_at": "2026-09-01",
+  "flyers": [
+    {
+      "flyer_id": "11490",
+      "file": "current/11490.json",
+      "valid_to": "2026-09-05"
+    }
+  ],
+  "offers": []
+}

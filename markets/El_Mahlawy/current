@@ -1,0 +1,20 @@
+{
+  "market": {
+    "id": "e9f7538e-fc0c-4aa6-8039-39a646a88ece",
+    "code": "yabalash-cacc43b25044",
+    "name_ar": "El Mahlawy",
+    "name_en": "El Mahlawy",
+    "tags": [
+      "Branch: Mart Ville"
+    ]
+  },
+  "generated_at": "2026-09-01",
+  "flyers": [
+    {
+      "flyer_id": "11466",
+      "file": "current/11466.json",
+      "valid_to": "2026-09-02"
+    }
+  ],
+  "offers": []
+}

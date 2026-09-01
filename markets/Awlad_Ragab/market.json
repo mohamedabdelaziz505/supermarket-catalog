@@ -1,0 +1,23 @@
+{
+  "market": {
+    "id": "9498ae15-db70-42b5-8739-7e8240be489d",
+    "code": "yabalash-cf937645ecb2",
+    "name_ar": "Awlad Ragab",
+    "name_en": "Awlad Ragab",
+    "tags": []
+  },
+  "current": "current/current.json",
+  "history": [
+    {
+      "flyer_id": "11163",
+      "file": "history/2026-08-01/11163/flyer.json",
+      "valid_to": "2026-08-01"
+    },
+    {
+      "flyer_id": "11070",
+      "file": "history/2026-08-01/11070/flyer.json",
+      "valid_to": "2026-08-09"
+    }
+  ],
+  "history_offers": []
+}

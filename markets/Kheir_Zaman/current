@@ -1,0 +1,18 @@
+{
+  "market": {
+    "id": "7ec1203a-5390-4ac2-bc29-f75b7560e899",
+    "code": "yabalash-9c0c29aa6867",
+    "name_ar": "Kheir Zaman",
+    "name_en": "Kheir Zaman",
+    "tags": []
+  },
+  "generated_at": "2026-09-01",
+  "flyers": [
+    {
+      "flyer_id": "11503",
+      "file": "current/11503.json",
+      "valid_to": "2026-09-15"
+    }
+  ],
+  "offers": []
+}

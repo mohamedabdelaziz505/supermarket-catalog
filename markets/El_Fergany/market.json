@@ -1,0 +1,18 @@
+{
+  "market": {
+    "id": "62f77971-a675-4f2d-9610-0ace867341a0",
+    "code": "yabalash-5e6cbe1f8e94",
+    "name_ar": "El Fergany",
+    "name_en": "El Fergany",
+    "tags": []
+  },
+  "current": "current/current.json",
+  "history": [
+    {
+      "flyer_id": "11092",
+      "file": "history/2026-08-01/11092/flyer.json",
+      "valid_to": "2026-08-10"
+    }
+  ],
+  "history_offers": []
+}

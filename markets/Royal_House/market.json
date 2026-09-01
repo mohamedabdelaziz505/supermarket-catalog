@@ -1,0 +1,18 @@
+{
+  "market": {
+    "id": "89002566-f4d1-480a-8e25-e89c3200f21d",
+    "code": "yabalash-4c88dd900907",
+    "name_ar": "Royal House",
+    "name_en": "Royal House",
+    "tags": []
+  },
+  "current": "current/current.json",
+  "history": [
+    {
+      "flyer_id": "11083",
+      "file": "history/2026-08-01/11083/flyer.json",
+      "valid_to": "2026-08-20"
+    }
+  ],
+  "history_offers": []
+}

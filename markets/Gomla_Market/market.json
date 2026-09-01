@@ -1,0 +1,25 @@
+{
+  "market": {
+    "id": "8cde8ecc-2099-437b-8340-5a1d78d1441c",
+    "code": "yabalash-bd75aee78583",
+    "name_ar": "Gomla Market",
+    "name_en": "Gomla Market",
+    "tags": [
+      "Branch: Maadi"
+    ]
+  },
+  "current": "current/current.json",
+  "history": [
+    {
+      "flyer_id": "11167",
+      "file": "history/2026-08-01/11167/flyer.json",
+      "valid_to": "2026-08-01"
+    },
+    {
+      "flyer_id": "11005",
+      "file": "history/2026-08-01/11005/flyer.json",
+      "valid_to": "2026-08-01"
+    }
+  ],
+  "history_offers": []
+}

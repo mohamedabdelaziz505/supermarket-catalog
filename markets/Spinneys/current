@@ -1,0 +1,20 @@
+{
+  "market": {
+    "id": "afe5d16b-db90-4c2d-a1df-f2a865fd22d8",
+    "code": "yabalash-25f0e46cf264",
+    "name_ar": "Spinneys",
+    "name_en": "Spinneys",
+    "tags": [
+      "Branch: Extra - Mall of Arabia & Tanta Mall"
+    ]
+  },
+  "generated_at": "2026-09-01",
+  "flyers": [
+    {
+      "flyer_id": "11477",
+      "file": "current/11477.json",
+      "valid_to": "2026-09-01"
+    }
+  ],
+  "offers": []
+}
