@@ -5,13 +5,13 @@
   "markets": [
     {
       "name": "Al Raya",
-      "path": "markets/Al_Raya/current/current.json",
+      "path": "markets/Al_Raya/market.json",
       "tags": [],
       "current_flyers": 0
     },
     {
       "name": "Al Othaim",
-      "path": "markets/Al_Othaim/current/current.json",
+      "path": "markets/Al_Othaim/market.json",
       "tags": [
         "Branch: Sudan St, Mohandessin"
       ],
@@ -19,13 +19,13 @@
     },
     {
       "name": "El Fergany",
-      "path": "markets/El_Fergany/current/current.json",
+      "path": "markets/El_Fergany/market.json",
       "tags": [],
       "current_flyers": 0
     },
     {
       "name": "El Mahlawy",
-      "path": "markets/El_Mahlawy/current/current.json",
+      "path": "markets/El_Mahlawy/market.json",
       "tags": [
         "Branch: Mart Ville"
       ],
@@ -33,37 +33,37 @@
     },
     {
       "name": "Oscar",
-      "path": "markets/Oscar/current/current.json",
+      "path": "markets/Oscar/market.json",
       "tags": [],
       "current_flyers": 0
     },
     {
       "name": "Awlad Ragab",
-      "path": "markets/Awlad_Ragab/current/current.json",
+      "path": "markets/Awlad_Ragab/market.json",
       "tags": [],
       "current_flyers": 0
     },
     {
       "name": "Panda",
-      "path": "markets/Panda/current/current.json",
+      "path": "markets/Panda/market.json",
       "tags": [],
       "current_flyers": 0
     },
     {
       "name": "Gomla House",
-      "path": "markets/Gomla_House/current/current.json",
+      "path": "markets/Gomla_House/market.json",
       "tags": [],
       "current_flyers": 0
     },
     {
       "name": "BIM",
-      "path": "markets/BIM/current/current.json",
+      "path": "markets/BIM/market.json",
       "tags": [],
       "current_flyers": 1
     },
     {
       "name": "Gomla Market",
-      "path": "markets/Gomla_Market/current/current.json",
+      "path": "markets/Gomla_Market/market.json",
       "tags": [
         "Branch: Maadi"
       ],
@@ -71,31 +71,31 @@
     },
     {
       "name": "Kheir Zaman",
-      "path": "markets/Kheir_Zaman/current/current.json",
+      "path": "markets/Kheir_Zaman/market.json",
       "tags": [],
       "current_flyers": 1
     },
     {
       "name": "Royal House",
-      "path": "markets/Royal_House/current/current.json",
+      "path": "markets/Royal_House/market.json",
       "tags": [],
       "current_flyers": 0
     },
     {
       "name": "Zaher Market",
-      "path": "markets/Zaher_Market/current/current.json",
+      "path": "markets/Zaher_Market/market.json",
       "tags": [],
       "current_flyers": 0
     },
     {
       "name": "Zahran Market",
-      "path": "markets/Zahran_Market/current/current.json",
+      "path": "markets/Zahran_Market/market.json",
       "tags": [],
       "current_flyers": 0
     },
     {
       "name": "Spinneys",
-      "path": "markets/Spinneys/current/current.json",
+      "path": "markets/Spinneys/market.json",
       "tags": [
         "Branch: Extra - Mall of Arabia & Tanta Mall"
       ],
@@ -103,19 +103,19 @@
     },
     {
       "name": "Saray Market",
-      "path": "markets/Saray_Market/current/current.json",
+      "path": "markets/Saray_Market/market.json",
       "tags": [],
       "current_flyers": 0
     },
     {
       "name": "Saudi",
-      "path": "markets/Saudi/current/current.json",
+      "path": "markets/Saudi/market.json",
       "tags": [],
       "current_flyers": 0
     },
     {
       "name": "Sobikou",
-      "path": "markets/Sobikou/current/current.json",
+      "path": "markets/Sobikou/market.json",
       "tags": [
         "Branch: Senger, Omraneya & El Naameya"
       ],
@@ -123,19 +123,19 @@
     },
     {
       "name": "Arafa Market",
-      "path": "markets/Arafa_Market/current/current.json",
+      "path": "markets/Arafa_Market/market.json",
       "tags": [],
       "current_flyers": 0
     },
     {
       "name": "Fathalla",
-      "path": "markets/Fathalla/current/current.json",
+      "path": "markets/Fathalla/market.json",
       "tags": [],
       "current_flyers": 0
     },
     {
       "name": "Carrefour",
-      "path": "markets/Carrefour/current/current.json",
+      "path": "markets/Carrefour/market.json",
       "tags": [
         "Branch: Barmilan"
       ],
@@ -143,37 +143,37 @@
     },
     {
       "name": "Kazyon",
-      "path": "markets/Kazyon/current/current.json",
+      "path": "markets/Kazyon/market.json",
       "tags": [],
       "current_flyers": 1
     },
     {
       "name": "Lulu",
-      "path": "markets/Lulu/current/current.json",
+      "path": "markets/Lulu/market.json",
       "tags": [],
       "current_flyers": 1
     },
     {
       "name": "Metro Market",
-      "path": "markets/Metro_Market/current/current.json",
+      "path": "markets/Metro_Market/market.json",
       "tags": [],
       "current_flyers": 0
     },
     {
       "name": "Mahmoud El Far",
-      "path": "markets/Mahmoud_El_Far/current/current.json",
+      "path": "markets/Mahmoud_El_Far/market.json",
       "tags": [],
       "current_flyers": 0
     },
     {
       "name": "Hyper Mousi",
-      "path": "markets/Hyper_Mousi/current/current.json",
+      "path": "markets/Hyper_Mousi/market.json",
       "tags": [],
       "current_flyers": 1
     },
     {
       "name": "Hyper One",
-      "path": "markets/Hyper_One/current/current.json",
+      "path": "markets/Hyper_One/market.json",
       "tags": [],
       "current_flyers": 1
     }
